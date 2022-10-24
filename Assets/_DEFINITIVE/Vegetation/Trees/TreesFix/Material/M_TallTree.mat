@@ -7,9 +7,9 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: M_OakTree02
+  m_Name: M_TallTree
   m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
-  m_ShaderKeywords: _METALLICSPECGLOSSMAP _NORMALMAP
+  m_ShaderKeywords: _NORMALMAP
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 1
   m_DoubleSidedGI: 0
@@ -21,15 +21,15 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BaseMap:
-        m_Texture: {fileID: 2800000, guid: 7654bcab49f836044aaee6cba8a015a1, type: 3}
+        m_Texture: {fileID: 2800000, guid: 3f13daea74579234c98d0c9676ec051f, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: 815b5b3a21f3d11409f0a1f8cecc96f5, type: 3}
+        m_Texture: {fileID: 2800000, guid: b24328668a975bf43955614360621135, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DepositMask:
-        m_Texture: {fileID: 2800000, guid: 21065b96e86679b418ea7325101a1740, type: 3}
+        m_Texture: {fileID: 2800000, guid: ecb49b5a8603e0e438dacd067b681937, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -57,19 +57,19 @@ Material:
         m_Scale: {x: 0.5, y: 0.1}
         m_Offset: {x: 0, y: 0}
     - _LayerMask:
-        m_Texture: {fileID: 2800000, guid: 21065b96e86679b418ea7325101a1740, type: 3}
+        m_Texture: {fileID: 2800000, guid: ecb49b5a8603e0e438dacd067b681937, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 7654bcab49f836044aaee6cba8a015a1, type: 3}
+        m_Texture: {fileID: 2800000, guid: 3f13daea74579234c98d0c9676ec051f, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
-        m_Texture: {fileID: 2800000, guid: 4c9aecfb242a0da40969c1c2c6136595, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicROcclusionGSmoothnessA:
-        m_Texture: {fileID: 2800000, guid: f83cd29a06b58fd468d5087494b20313, type: 3}
+        m_Texture: {fileID: 2800000, guid: c5d1d7af562de9241b66d7b271117823, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
@@ -117,8 +117,8 @@ Material:
     - _DepositChannel: 1
     - _DepositContrast: 0.8
     - _DepositPosition: 1.31
-    - _DepositPower: 0.324
-    - _DepositThreshold: 50
+    - _DepositPower: 0.285
+    - _DepositThreshold: 39.8
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
@@ -140,7 +140,7 @@ Material:
     - _LayerContrast: 10
     - _LayerMetallicPower: 0.5
     - _LayerOcclusionPower: 0.5
-    - _LayerPosition: 11.6
+    - _LayerPosition: 25
     - _LayerPower: 0.144
     - _LayerSmoothnessPower: 0.5
     - _LayerThreshold: 50
@@ -187,12 +187,12 @@ Material:
     - __dirty: 0
     m_Colors:
     - _2ndColor: {r: 1, g: 1, b: 1, a: 1}
-    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
-    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _BaseColor: {r: 0.9056604, g: 0.73409903, b: 0.5596298, a: 1}
+    - _Color: {r: 0.9056604, g: 0.73409903, b: 0.55962974, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
---- !u!114 &5718860251492283595
+--- !u!114 &4860833450297424128
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
