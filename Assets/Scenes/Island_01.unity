@@ -421,7 +421,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1130758149
 Transform:
   m_ObjectHideFlags: 0
@@ -430,7 +430,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1130758148}
   m_LocalRotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 512, y: -0, z: 477}
+  m_LocalPosition: {x: 8464, y: 435, z: 9056}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -449,16 +449,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0777d029ed3dffa4692f417d4aba19ca, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 2100000, guid: e653a2a081dc4794a8c68d4c58a34771, type: 2}
-  m_DrawDistance: 1000
+  m_Material: {fileID: 2100000, guid: 03ceef06060334c46bfa4fc99203a9db, type: 2}
+  m_DrawDistance: 5000
   m_FadeScale: 0.916
   m_StartAngleFade: 180
   m_EndAngleFade: 180
   m_UVScale: {x: 1, y: 1}
   m_UVBias: {x: 0, y: 0}
   m_ScaleMode: 0
-  m_Offset: {x: 0, y: 0, z: 53.635}
-  m_Size: {x: 7080, y: 7080, z: 107.27}
+  m_Offset: {x: 0, y: 0, z: 250}
+  m_Size: {x: 7020, y: 7020, z: 500}
   m_FadeFactor: 1
 --- !u!33 &1130758151
 MeshFilter:
@@ -749,8 +749,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1917833031}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1019.3, y: 0.38, z: 1189.8688}
-  m_LocalScale: {x: 353.51566, y: 353.51566, z: 353.51566}
+  m_LocalPosition: {x: 7340, y: 30, z: 6853}
+  m_LocalScale: {x: 1715.005, y: 1715.005, z: 1715.005}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
