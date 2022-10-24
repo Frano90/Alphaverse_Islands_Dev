@@ -94,6 +94,7 @@ GameObject:
   - component: {fileID: 7972411251998153248}
   - component: {fileID: 5045266840420506797}
   - component: {fileID: 7190200503699663256}
+  - component: {fileID: 8303089032229058699}
   m_Layer: 0
   m_Name: OakTree03_LOD0
   m_TagString: Untagged
@@ -109,7 +110,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6234472053254276970}
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.000006273202, y: 0.36680838, z: 0.0019883728}
+  m_LocalPosition: {x: 0.000006273202, y: 0, z: 0.0019883728}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -167,6 +168,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!136 &8303089032229058699
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6234472053254276970}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 1
+  m_Height: 13.351183
+  m_Direction: 1
+  m_Center: {x: 0, y: 5, z: 0}
 --- !u!1 &7577757766189877793
 GameObject:
   m_ObjectHideFlags: 0
