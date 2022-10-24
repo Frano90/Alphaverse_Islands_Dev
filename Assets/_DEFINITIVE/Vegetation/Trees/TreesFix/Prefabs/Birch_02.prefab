@@ -329,6 +329,7 @@ GameObject:
   - component: {fileID: 5651342689173644931}
   - component: {fileID: 3043095123889233386}
   - component: {fileID: 2409050230442102878}
+  - component: {fileID: 4465990428145559634}
   m_Layer: 0
   m_Name: FAE_Birch_B_LOD0
   m_TagString: Untagged
@@ -402,3 +403,17 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!136 &4465990428145559634
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6259337947625178589}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.5
+  m_Height: 15.2879305
+  m_Direction: 1
+  m_Center: {x: -0.11817324, y: 7.343864, z: 0.039540768}
