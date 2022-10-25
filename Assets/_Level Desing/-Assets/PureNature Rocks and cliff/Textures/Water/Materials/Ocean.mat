@@ -131,14 +131,14 @@ Material:
     - _EdgeDistance: 0.941
     - _EdgeLength: 50
     - _EdgePower: 1
-    - _EdgesFade: 0.05
+    - _EdgesFade: 0.1
     - _Float2: 1000
     - _Float3: 0.744
     - _FoamContrast: 9.99
     - _FoamDepth: 0
     - _FoamDistance: 2
     - _FoamFalloff: 0
-    - _FoamPower: 0.031
+    - _FoamPower: 0.1
     - _FoamScale: 2
     - _FoamSmoothness: 0
     - _FoamSpeed: 1
@@ -151,7 +151,7 @@ Material:
     - _GlossyReflections: 1
     - _Max: 1
     - _Metallic: 0
-    - _MetallicPower: 0
+    - _MetallicPower: 0.527
     - _Min: 0
     - _Mode: 0
     - _MultiplyOpacity: 1
@@ -193,7 +193,7 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Color0: {r: 0, g: 0.5987654, b: 1, a: 0}
     - _Color1: {r: 1, g: 0.76618373, b: 0, a: 1}
-    - _DepthColor: {r: 0.05206473, g: 0.3498848, b: 0.735849, a: 1}
+    - _DepthColor: {r: 0.36404648, g: 0.050980408, b: 0.7372549, a: 1}
     - _DepthColor1: {r: 0, g: 1, b: 0.8509803, a: 0}
     - _Direction: {r: 1, g: 0, b: -1, a: 0.2}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
