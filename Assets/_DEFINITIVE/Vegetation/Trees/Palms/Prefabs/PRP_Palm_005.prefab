@@ -95,6 +95,7 @@ GameObject:
   - component: {fileID: 7796594934625394718}
   - component: {fileID: 1191534926856555032}
   - component: {fileID: 1348803062248528298}
+  - component: {fileID: 3039231489172390005}
   m_Layer: 0
   m_Name: Palm_005_LOD0
   m_TagString: Untagged
@@ -168,6 +169,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!136 &3039231489172390005
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5621705927507312572}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 2
+  m_Height: 10
+  m_Direction: 1
+  m_Center: {x: 0, y: 2, z: 0}
 --- !u!1 &6966472273470038535
 GameObject:
   m_ObjectHideFlags: 0
