@@ -185,7 +185,7 @@ Material:
     - _ReceiveShadows: 1
     - _Smoothness: 0.406
     - _SmoothnessMultiplier: 0.1
-    - _SmoothnessOverride: 0
+    - _SmoothnessOverride: -1
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
