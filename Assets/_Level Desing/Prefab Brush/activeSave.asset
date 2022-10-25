@@ -13,11 +13,61 @@ MonoBehaviour:
   m_Name: activeSave
   m_EditorClassIdentifier: 
   prefabList: []
-  prefabData: []
+  prefabData:
+  - prefab: {fileID: 6771396824435959443, guid: d1b06332f57f59749b0ad989413c7f44,
+      type: 3}
+    selected: 0
+  - prefab: {fileID: 225258206966736149, guid: 17ec09ec0718c074fa18351660f47a56, type: 3}
+    selected: 0
+  - prefab: {fileID: 3538468840869811080, guid: 69ec6435758907343b4f540cb50cf5b3,
+      type: 3}
+    selected: 0
+  - prefab: {fileID: 7134994382850823643, guid: 782424ef60b5d6b47b12d4db3c9455a7,
+      type: 3}
+    selected: 0
+  - prefab: {fileID: 1960844236708463733, guid: 52202b428c93675499f1d787e93be31b,
+      type: 3}
+    selected: 0
+  - prefab: {fileID: 2665002134388066620, guid: 54d9f8a7e45bf2b45bd950c3d6602823,
+      type: 3}
+    selected: 0
+  - prefab: {fileID: 4845993962308656247, guid: e872d9b0791ea9443bd17ba7e34b7dae,
+      type: 3}
+    selected: 0
+  - prefab: {fileID: 5994932836311107737, guid: f0ea5e9974da8c94898ed6da8a496d73,
+      type: 3}
+    selected: 0
+  - prefab: {fileID: 2784145988302148788, guid: 06ce404f8f042b4409195b56db7ea6f5,
+      type: 3}
+    selected: 0
+  - prefab: {fileID: 5155773086348910029, guid: 463385db6a976624abbe8dc909224f02,
+      type: 3}
+    selected: 0
+  - prefab: {fileID: 1960844236708463733, guid: 9d3ea06450c0e5c428896b31bffaf8d5,
+      type: 3}
+    selected: 1
+  - prefab: {fileID: 2665002134388066620, guid: cc8abf2fffd6fe041a4067132d5dcd96,
+      type: 3}
+    selected: 1
+  - prefab: {fileID: 3606400513933554907, guid: a51f82da078b6c943a90665d4295b213,
+      type: 3}
+    selected: 1
+  - prefab: {fileID: 4845993962308656247, guid: 3b222f411e90a954493a30b4758fd28a,
+      type: 3}
+    selected: 1
+  - prefab: {fileID: 7465341210349653893, guid: e431101ac5556a04c8b2e9a737a5c960,
+      type: 3}
+    selected: 1
+  - prefab: {fileID: 5994932836311107737, guid: 36a707e5141e4f74c8ba9445bd57b435,
+      type: 3}
+    selected: 1
+  - prefab: {fileID: 5155773086348910029, guid: 727df69064cffb04b8ef341bad8e2392,
+      type: 3}
+    selected: 1
   paintType: 0
   brushSize: 1
   minBrushSize: 0.1
-  maxBrushSize: 20
+  maxBrushSize: 300
   paintDeltaDistance: 0.4
   maxPaintDeltaDistance: 3
   minPaintDeltaDistance: 0.1
@@ -28,13 +78,13 @@ MonoBehaviour:
   addRigidbodyToPaintedPrefab: 1
   physicsIterations: 100
   checkLayer: 0
-  checkTag: 0
+  checkTag: 1
   checkSlope: 0
   ignorePaintedPrefabs: 0
   ignoreTriggers: 1
   chainPivotAxis: 0
   chainDirection: 0
-  requiredTagMask: 0
+  requiredTagMask: -1
   requiredLayerMask: 0
   minRequiredSlope: 0
   maxRequiredSlope: 0
@@ -43,9 +93,9 @@ MonoBehaviour:
   draggingAction: 0
   rotationAxis: 0
   rotationSensitivity: 10
-  parentingStyle: 0
+  parentingStyle: 2
   parent: {fileID: 0}
-  rotateToMatchSurface: 0
+  rotateToMatchSurface: 1
   rotateSurfaceDirection: 0
   randomizeRotation: 0
   minXRotation: 0
@@ -54,7 +104,7 @@ MonoBehaviour:
   maxYRotation: 0
   minZRotation: 0
   maxZRotation: 0
-  scaleType: 0
+  scaleType: 2
   scaleApplicationType: 0
   minScale: 1
   maxScale: 1
