@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 135602068588776875}
   - component: {fileID: 5931522945671517173}
   - component: {fileID: 7003743147069758968}
+  - component: {fileID: 2348006538969307451}
   m_Layer: 0
   m_Name: TallTree03_LOD0
   m_TagString: Untagged
@@ -84,6 +85,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!136 &2348006538969307451
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3881760642699169983}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.5
+  m_Height: 18.171875
+  m_Direction: 1
+  m_Center: {x: 0, y: 8.950125, z: 0}
 --- !u!1 &7350313743170698590
 GameObject:
   m_ObjectHideFlags: 0
