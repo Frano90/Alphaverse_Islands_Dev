@@ -178,6 +178,7 @@ GameObject:
   - component: {fileID: 3389892751682597111}
   - component: {fileID: 5857447874900563430}
   - component: {fileID: 6733157168290400460}
+  - component: {fileID: 1738784011786423436}
   m_Layer: 0
   m_Name: FAE_Willow_02_LOD0
   m_TagString: Untagged
@@ -251,6 +252,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!136 &1738784011786423436
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3421748647934949174}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 1
+  m_Height: 19.24168
+  m_Direction: 1
+  m_Center: {x: 0, y: 7.8049583, z: 0}
 --- !u!1 &7008564063534105767
 GameObject:
   m_ObjectHideFlags: 0
