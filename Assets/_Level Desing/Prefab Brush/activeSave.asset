@@ -36,7 +36,7 @@ MonoBehaviour:
   ignoreTriggers: 1
   chainPivotAxis: 0
   chainDirection: 0
-  requiredTagMask: -1
+  requiredTagMask: 128
   requiredLayerMask: 0
   minRequiredSlope: 0
   maxRequiredSlope: 0
