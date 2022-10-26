@@ -73,6 +73,7 @@ GameObject:
   - component: {fileID: 1330637701738807516}
   - component: {fileID: 6194873372820568148}
   - component: {fileID: 7251312509814151149}
+  - component: {fileID: 8306445477495501637}
   m_Layer: 0
   m_Name: SM_Stone_01_LOD0
   m_TagString: Untagged
@@ -145,6 +146,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &8306445477495501637
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4381327087838804733}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.3, y: 1.28, z: 1.3}
+  m_Center: {x: -0.023739606, y: 0.6095946, z: 0.009201497}
 --- !u!1 &5706284984336180861
 GameObject:
   m_ObjectHideFlags: 0
