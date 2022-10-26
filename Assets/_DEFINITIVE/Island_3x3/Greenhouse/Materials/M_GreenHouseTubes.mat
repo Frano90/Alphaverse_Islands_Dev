@@ -12,7 +12,7 @@ Material:
   m_ShaderKeywords: _ALPHATEST_ON _NORMALMAP _SURFACE_TYPE_TRANSPARENT
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
-  m_DoubleSidedGI: 1
+  m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses:
@@ -114,9 +114,9 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0
     - _GlossyReflections: 1
-    - _MaxDistance: 0.03
+    - _MaxDistance: 0.016414724
     - _Metallic: 0
-    - _MinOpacity: 0.5
+    - _MinOpacity: 0.435
     - _Mode: 3
     - _NormalScale: 1
     - _OcclusionStrength: 1
