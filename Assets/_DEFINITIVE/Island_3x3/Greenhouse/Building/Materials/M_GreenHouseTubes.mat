@@ -114,14 +114,14 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0
     - _GlossyReflections: 1
-    - _MaxDistance: 0.03
+    - _MaxDistance: 0.0515
     - _Metallic: 0
-    - _MinOpacity: 0.5
+    - _MinOpacity: 0.73
     - _Mode: 3
     - _NormalScale: 1
     - _OcclusionStrength: 1
-    - _OverrideMetallic: -0.01
-    - _OverrideSmoothness: -0.01
+    - _OverrideMetallic: -1
+    - _OverrideSmoothness: 1
     - _Parallax: 0.02
     - _QueueOffset: 0
     - _ReceiveShadows: 1
