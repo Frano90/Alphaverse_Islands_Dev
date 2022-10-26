@@ -15,7 +15,48 @@ MonoBehaviour:
   prefabList: []
   prefabData:
   - prefab: {fileID: 403684848439573384, guid: 056060bda56df71429a2799c62b62567, type: 3}
+    selected: 0
+  - prefab: {fileID: 2049036933210731596, guid: 3430250fddc626344b6230b834b24a6a,
+      type: 3}
+    selected: 0
+  - prefab: {fileID: 1649764091531996896, guid: c0357f570191cb44cb0f2675116f9bb5,
+      type: 3}
+    selected: 0
+  - prefab: {fileID: 432236651814014414, guid: 306b917900186464897394408f3b27d9, type: 3}
+    selected: 0
+  - prefab: {fileID: 3745919383911630876, guid: f97ab1547bee5d24e946639a9a7a253d,
+      type: 3}
+    selected: 0
+  - prefab: {fileID: 4050670237227329509, guid: 8b2214c4cd291484285eaa10709a32db,
+      type: 3}
+    selected: 0
+  - prefab: {fileID: 8217754020130179233, guid: 6953d51687d0ae043ad18fc9f983fe45,
+      type: 3}
+    selected: 0
+  - prefab: {fileID: 1169198545990185692, guid: 615f7dae4a772fc4c82c6de05ed10fe1,
+      type: 3}
+    selected: 0
+  - prefab: {fileID: 4472524148133564251, guid: 684c7e258e4add940939b1a12d52d368,
+      type: 3}
+    selected: 0
+  - prefab: {fileID: 5376526933301311029, guid: d24480ebd68da4544b724731969365f0,
+      type: 3}
+    selected: 0
+  - prefab: {fileID: 3800458528740578905, guid: 6b3e630a1416893409fe06965a7547fe,
+      type: 3}
     selected: 1
+  - prefab: {fileID: 7606992105126126005, guid: 899d0fdc1a15a844ab5a51ca9ac7c304,
+      type: 3}
+    selected: 0
+  - prefab: {fileID: 7475830043425431227, guid: 96810b8957d664647b8198e4984decd5,
+      type: 3}
+    selected: 0
+  - prefab: {fileID: 2049036933210731596, guid: 3430250fddc626344b6230b834b24a6a,
+      type: 3}
+    selected: 0
+  - prefab: {fileID: 1649764091531996896, guid: c0357f570191cb44cb0f2675116f9bb5,
+      type: 3}
+    selected: 0
   paintType: 0
   brushSize: 1
   minBrushSize: 0.1
@@ -49,7 +90,7 @@ MonoBehaviour:
   parent: {fileID: 0}
   rotateToMatchSurface: 1
   rotateSurfaceDirection: 0
-  randomizeRotation: 0
+  randomizeRotation: 1
   minXRotation: 0
   maxXRotation: 0
   minYRotation: 0
@@ -61,11 +102,11 @@ MonoBehaviour:
   minScale: 1
   maxScale: 1
   minXScale: 1
-  maxXScale: 1
+  maxXScale: 2
   minYScale: 1
-  maxYScale: 1
+  maxYScale: 2
   minZScale: 1
-  maxZScale: 1
+  maxZScale: 2
   parentList: []
   eraseBrushSize: 1
   minEraseBrushSize: 0.1

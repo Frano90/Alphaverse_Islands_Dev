@@ -94,6 +94,7 @@ GameObject:
   - component: {fileID: 7919250691745533971}
   - component: {fileID: 8837301785095142043}
   - component: {fileID: 6799291966425683205}
+  - component: {fileID: 1859422799592475021}
   m_Layer: 0
   m_Name: SM_TurboFan_LOD0
   m_TagString: Untagged
@@ -166,6 +167,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &1859422799592475021
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4932112410472757962}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.6194672, y: 0.5836283, z: 0.6211374}
+  m_Center: {x: 0.30973354, y: -0.006158933, z: 0.0030347556}
 --- !u!1 &7606992105126126005
 GameObject:
   m_ObjectHideFlags: 0
