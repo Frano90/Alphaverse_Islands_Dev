@@ -10241,7 +10241,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6117585756436422320}
-  m_LocalRotation: {x: -6.123234e-17, y: 1, z: 6.123234e-17, w: -3.7493994e-33}
+  m_LocalRotation: {x: 0, y: -1, z: 0, w: 0}
   m_LocalPosition: {x: -293.83566, y: 21.92, z: -12.2309265}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -10436,7 +10436,7 @@ Transform:
   - {fileID: 6352166766721954351}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -180, z: 0}
 --- !u!205 &1871184968124674939
 LODGroup:
   m_ObjectHideFlags: 0
@@ -10446,12 +10446,12 @@ LODGroup:
   m_GameObject: {fileID: 6117585756436422320}
   serializedVersion: 2
   m_LocalReferencePoint: {x: -0.022033691, y: 26.532026, z: 66.058754}
-  m_Size: 369.92242
+  m_Size: 1
   m_FadeMode: 0
   m_AnimateCrossFading: 0
   m_LastLODIsBillboard: 0
   m_LODs:
-  - screenRelativeHeight: 0.25
+  - screenRelativeHeight: 0.00067581737
     fadeTransitionWidth: 0
     renderers:
     - renderer: {fileID: 4692721254216357575}
@@ -10501,7 +10501,7 @@ LODGroup:
     - renderer: {fileID: 3341145016490010462}
     - renderer: {fileID: 8220460570099362742}
     - renderer: {fileID: 7889356297248598429}
-  - screenRelativeHeight: 0.125
+  - screenRelativeHeight: 0.00033790868
     fadeTransitionWidth: 0
     renderers:
     - renderer: {fileID: 6876364099033546083}
@@ -10549,7 +10549,7 @@ LODGroup:
     - renderer: {fileID: 2561884133595973444}
     - renderer: {fileID: 3422301899583285387}
     - renderer: {fileID: 9034642655057582930}
-  - screenRelativeHeight: 0.0625
+  - screenRelativeHeight: 0.00016895434
     fadeTransitionWidth: 0
     renderers:
     - renderer: {fileID: 4824954458287606331}
@@ -10597,7 +10597,7 @@ LODGroup:
     - renderer: {fileID: 4054189205141724846}
     - renderer: {fileID: 1712050595493729139}
     - renderer: {fileID: 8266145296176064767}
-  - screenRelativeHeight: 0.01
+  - screenRelativeHeight: 0.000027032695
     fadeTransitionWidth: 0
     renderers:
     - renderer: {fileID: 1376265997168728746}
@@ -11088,7 +11088,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6352166765851258089}
   m_LocalRotation: {x: 0.4999999, y: -0.5000001, z: 0.5, w: 0.5}
-  m_LocalPosition: {x: 36.164337, y: 3.3799992, z: 186.12909}
+  m_LocalPosition: {x: 18.52, y: 3.3799992, z: 87.9}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -11120,12 +11120,12 @@ MonoBehaviour:
   m_FadeScale: 0.9
   m_StartAngleFade: 180
   m_EndAngleFade: 180
-  m_UVScale: {x: 2.76, y: 1}
+  m_UVScale: {x: 4, y: 1}
   m_UVBias: {x: 0, y: 0}
   m_ScaleMode: 0
   m_Offset: {x: 0, y: 0, z: 75}
-  m_Size: {x: 121.1, y: 29.2, z: 150}
-  m_FadeFactor: 0.54
+  m_Size: {x: 60.3, y: 12.1, z: 150}
+  m_FadeFactor: 0.3
 --- !u!1 &6352166765882210893
 GameObject:
   m_ObjectHideFlags: 0
@@ -11152,7 +11152,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6352166765882210893}
   m_LocalRotation: {x: 0.4999999, y: -0.5000001, z: 0.5, w: 0.5}
-  m_LocalPosition: {x: -38.375656, y: 3.3799992, z: 186.12909}
+  m_LocalPosition: {x: -18.53, y: 3.3799992, z: 85.34}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -11184,12 +11184,12 @@ MonoBehaviour:
   m_FadeScale: 0.9
   m_StartAngleFade: 180
   m_EndAngleFade: 180
-  m_UVScale: {x: 2.76, y: 1}
+  m_UVScale: {x: 4, y: 1}
   m_UVBias: {x: 0, y: 0}
   m_ScaleMode: 0
   m_Offset: {x: 0, y: 0, z: 75}
-  m_Size: {x: 121.1, y: 29.2, z: 150}
-  m_FadeFactor: 0.54
+  m_Size: {x: 65.5, y: 12.1, z: 150}
+  m_FadeFactor: 0.3
 --- !u!1 &6352166766236822993
 GameObject:
   m_ObjectHideFlags: 0
@@ -11216,7 +11216,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6352166766236822993}
   m_LocalRotation: {x: 0.4999999, y: -0.5000001, z: 0.5, w: 0.5}
-  m_LocalPosition: {x: -1.8356628, y: 3.3799992, z: 19.929096}
+  m_LocalPosition: {x: 0, y: 3.3799992, z: 7.1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -11252,7 +11252,7 @@ MonoBehaviour:
   m_UVBias: {x: 0, y: 0}
   m_ScaleMode: 0
   m_Offset: {x: 0, y: 0, z: 75}
-  m_Size: {x: 167.2, y: 29.2, z: 150}
+  m_Size: {x: 83.8, y: 12.4, z: 150}
   m_FadeFactor: 0.3
 --- !u!1 &6352166766696899956
 GameObject:
@@ -11280,7 +11280,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6352166766696899956}
   m_LocalRotation: {x: 0.4999999, y: -0.5000001, z: 0.5, w: 0.5}
-  m_LocalPosition: {x: -38.375656, y: 3.3799992, z: 41.789085}
+  m_LocalPosition: {x: -18.48, y: 3.3799992, z: 15.9}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -11312,11 +11312,11 @@ MonoBehaviour:
   m_FadeScale: 0.9
   m_StartAngleFade: 180
   m_EndAngleFade: 180
-  m_UVScale: {x: 2, y: 1}
+  m_UVScale: {x: 4, y: 1}
   m_UVBias: {x: 0, y: 0}
   m_ScaleMode: 0
   m_Offset: {x: 0, y: 0, z: 75}
-  m_Size: {x: 107.3, y: 29.2, z: 150}
+  m_Size: {x: 54.5, y: 12.1, z: 150}
   m_FadeFactor: 0.3
 --- !u!1 &6352166766721954348
 GameObject:
@@ -11344,7 +11344,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6352166766721954348}
   m_LocalRotation: {x: 0.4999999, y: -0.5000001, z: 0.5, w: 0.5}
-  m_LocalPosition: {x: -1.8356628, y: 3.3799992, z: 189.76907}
+  m_LocalPosition: {x: 0.1, y: 3.3799992, z: 88.87}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -11376,12 +11376,12 @@ MonoBehaviour:
   m_FadeScale: 0.9
   m_StartAngleFade: 180
   m_EndAngleFade: 180
-  m_UVScale: {x: 3.5, y: 1}
+  m_UVScale: {x: 4, y: 1}
   m_UVBias: {x: 0, y: 0}
   m_ScaleMode: 0
   m_Offset: {x: 0, y: 0, z: 75}
-  m_Size: {x: 146.9, y: 29.2, z: 150}
-  m_FadeFactor: 0.54
+  m_Size: {x: 73.2, y: 12, z: 150}
+  m_FadeFactor: 0.3
 --- !u!1 &6352166766998462861
 GameObject:
   m_ObjectHideFlags: 0
@@ -11408,7 +11408,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6352166766998462861}
   m_LocalRotation: {x: 0.4999999, y: -0.5000001, z: 0.5, w: 0.5}
-  m_LocalPosition: {x: 36.164337, y: 3.3799992, z: 41.7891}
+  m_LocalPosition: {x: 18.67, y: 3.3799992, z: 16.1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -11440,11 +11440,11 @@ MonoBehaviour:
   m_FadeScale: 0.9
   m_StartAngleFade: 180
   m_EndAngleFade: 180
-  m_UVScale: {x: 2, y: 1}
+  m_UVScale: {x: 4, y: 1}
   m_UVBias: {x: 0, y: 0}
   m_ScaleMode: 0
   m_Offset: {x: 0, y: 0, z: 75}
-  m_Size: {x: 107.3, y: 29.2, z: 150}
+  m_Size: {x: 54.5, y: 12.1, z: 150}
   m_FadeFactor: 0.3
 --- !u!1 &6422995961220591635
 GameObject:
