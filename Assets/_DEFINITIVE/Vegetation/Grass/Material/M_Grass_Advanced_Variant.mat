@@ -128,13 +128,13 @@ Material:
     - __dirty: 0
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _ColorBladeDetails: {r: 0.5188679, g: 0.50972974, b: 0.06608224, a: 1}
-    - _ColorBottom: {r: 0.8396226, g: 0.7969227, b: 0.30495724, a: 1}
+    - _ColorBladeDetails: {r: 0.5176471, g: 0.30700627, b: 0.06666667, a: 1}
+    - _ColorBottom: {r: 0.8392157, g: 0.5586178, b: 0.3058824, a: 1}
     - _ColorBottom1: {r: 0.26925772, g: 0.49056602, b: 0.011569952, a: 1}
     - _ColorOVerlay: {r: 1, g: 0.9371227, b: 0, a: 1}
-    - _ColorTop: {r: 0.9056604, g: 0.8603662, b: 0.37166253, a: 1}
+    - _ColorTop: {r: 0.90588236, g: 0.6666057, b: 0.3725491, a: 1}
     - _ColorTop1: {r: 0.37178555, g: 0.6603774, b: 0.04049486, a: 1}
-    - _ColorTopVariation: {r: 0.8679245, g: 0.8570201, b: 0.5608757, a: 1}
+    - _ColorTopVariation: {r: 0.8666667, g: 0.743423, b: 0.56078434, a: 1}
     - _ColorWave: {r: 0.07332755, g: 0.25471687, b: 0, a: 1}
     - _ColorWave1: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
