@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e8106f9b641d20e4f9af8d576a0e6e87
+guid: 11acd4baba401ec4aaf677fcd77aeaa8
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
@@ -8,37 +8,32 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: M_GeenHouseGold
-    second: {fileID: 2100000, guid: 69df684edbe6c2540979389e3ee1d779, type: 2}
+    second: {fileID: 2100000, guid: ac8c14104ac0b1447bf989cd640b7b06, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: M_GreenHouseFloor
-    second: {fileID: 2100000, guid: 38e42bbb67b977c4890d7547bbb20689, type: 2}
+    second: {fileID: 2100000, guid: 9603846ffef19e140b297152e0ff553c, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: M_GreenHouseFloorBump
-    second: {fileID: 2100000, guid: d149042b50aaa61458878dcfb52f72af, type: 2}
+    second: {fileID: 2100000, guid: cbed55eb21fbaf5489977fb77a340e8f, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: M_GreenHouseSphere
-    second: {fileID: 2100000, guid: 43cdba6807fd9984984f6c933c4a3464, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: M_GreenHouseSphere.001
-    second: {fileID: 2100000, guid: 43cdba6807fd9984984f6c933c4a3464, type: 2}
+    second: {fileID: 2100000, guid: ea30fa5de9f125448a9c05b69a0b23dc, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: M_GreenHouseSphereLOD1
-    second: {fileID: 2100000, guid: 41892eea949b3104ab70aaaf2e7106f1, type: 2}
+    second: {fileID: 2100000, guid: 875dbe04c1ac06741b8185996038f9ba, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: M_GreenHouseTubes
-    second: {fileID: 2100000, guid: 3d600c293a20cce4091462c883660626, type: 2}
+    second: {fileID: 2100000, guid: fcd75ac2066d9fe4e8673a52ff238f92, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -74,7 +69,7 @@ ModelImporter:
     - 0.125
     - 0.0625
     - 0.01
-    globalScale: 0.5
+    globalScale: 1
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
@@ -105,7 +100,7 @@ ModelImporter:
     secondaryUVMinLightmapResolution: 40
     secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
-    useFileScale: 0
+    useFileScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -127,7 +122,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 0.5
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
