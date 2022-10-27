@@ -33,7 +33,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _Albedo:
-        m_Texture: {fileID: 2800000, guid: 685b5546b30610e4ba9bc32d59be8274, type: 3}
+        m_Texture: {fileID: 2800000, guid: 1fc33a7a8d793224d889678e5a0ad44c, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _AlbedoTexture:
@@ -105,7 +105,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Normal:
-        m_Texture: {fileID: 2800000, guid: 34834a02ae33b564a8b7bbf5382973e7, type: 3}
+        m_Texture: {fileID: 2800000, guid: c8d5da1bbbf225e40838824f206fa9c0, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _NormalTexture:
