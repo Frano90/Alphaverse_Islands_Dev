@@ -73,7 +73,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 125
   m_IsActive: 1
 --- !u!4 &4936205792442197633
 Transform:
@@ -151,12 +151,13 @@ GameObject:
   - component: {fileID: 6048607575629594071}
   - component: {fileID: 8456617930078661766}
   - component: {fileID: 5134575235774347384}
+  - component: {fileID: 3321709554646361305}
   m_Layer: 0
   m_Name: SM_Hose_01_LOD0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 125
   m_IsActive: 1
 --- !u!4 &6048607575629594071
 Transform:
@@ -223,3 +224,16 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &3321709554646361305
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6911519374402441849}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.69, y: 0.21791129, z: 1.09}
+  m_Center: {x: 0.009574428, y: 0.07444192, z: -0.09618825}
