@@ -127,7 +127,7 @@ Material:
     - _GlossyReflections: 1
     - _MaxDistance: 0.0515
     - _Metallic: 0
-    - _MinOpacity: 0.73
+    - _MinOpacity: 0.2307647
     - _Mode: 0
     - _NormalScale: 1
     - _OcclusionStrength: 1
