@@ -11,12 +11,13 @@ GameObject:
   - component: {fileID: 8737127388281147931}
   - component: {fileID: 5687862179321781694}
   - component: {fileID: 7569336897282664820}
+  - component: {fileID: 8941015046482933064}
   m_Layer: 0
   m_Name: LD_Prefab_SM_HydroponicFlowerpot
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 125
   m_IsActive: 1
 --- !u!4 &8737127388281147931
 Transform:
@@ -83,3 +84,16 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &8941015046482933064
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8217754020130179233}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.253932, y: 1.07, z: 1.1046885}
+  m_Center: {x: 0, y: 0.53, z: 0}
