@@ -125,7 +125,7 @@ GameObject:
   m_Component:
   - component: {fileID: 403684848439573385}
   m_Layer: 0
-  m_Name: GreenHouse Plant Fram
+  m_Name: GreenHouse Plant Fram A
   m_TagString: Untagged
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -254,13 +254,18 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 207349751971810988, guid: 684c7e258e4add940939b1a12d52d368,
         type: 3}
+      propertyPath: root
+      value: 
+      objectReference: {fileID: 8492759940766741701}
+    - target: {fileID: 207349751971810988, guid: 684c7e258e4add940939b1a12d52d368,
+        type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 207349751971810988, guid: 684c7e258e4add940939b1a12d52d368,
         type: 3}
       propertyPath: plants.Array.size
-      value: 17
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 207349751971810988, guid: 684c7e258e4add940939b1a12d52d368,
         type: 3}
@@ -426,6 +431,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 403684848385261003}
   m_PrefabAsset: {fileID: 0}
+--- !u!4 &8492759940766741701 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8090282494297131278, guid: 684c7e258e4add940939b1a12d52d368,
+    type: 3}
+  m_PrefabInstance: {fileID: 403684848385261003}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &403684848392238975
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -435,13 +446,18 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 207349751971810988, guid: 684c7e258e4add940939b1a12d52d368,
         type: 3}
+      propertyPath: root
+      value: 
+      objectReference: {fileID: 8492759940774248049}
+    - target: {fileID: 207349751971810988, guid: 684c7e258e4add940939b1a12d52d368,
+        type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 207349751971810988, guid: 684c7e258e4add940939b1a12d52d368,
         type: 3}
       propertyPath: plants.Array.size
-      value: 17
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 207349751971810988, guid: 684c7e258e4add940939b1a12d52d368,
         type: 3}
@@ -607,6 +623,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 403684848392238975}
   m_PrefabAsset: {fileID: 0}
+--- !u!4 &8492759940774248049 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8090282494297131278, guid: 684c7e258e4add940939b1a12d52d368,
+    type: 3}
+  m_PrefabInstance: {fileID: 403684848392238975}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &403684848438702216
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -766,13 +788,18 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 207349751971810988, guid: 684c7e258e4add940939b1a12d52d368,
         type: 3}
+      propertyPath: root
+      value: 
+      objectReference: {fileID: 8492759940623053464}
+    - target: {fileID: 207349751971810988, guid: 684c7e258e4add940939b1a12d52d368,
+        type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 207349751971810988, guid: 684c7e258e4add940939b1a12d52d368,
         type: 3}
       propertyPath: plants.Array.size
-      value: 17
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 207349751971810988, guid: 684c7e258e4add940939b1a12d52d368,
         type: 3}
@@ -938,6 +965,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 403684848610671510}
   m_PrefabAsset: {fileID: 0}
+--- !u!4 &8492759940623053464 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8090282494297131278, guid: 684c7e258e4add940939b1a12d52d368,
+    type: 3}
+  m_PrefabInstance: {fileID: 403684848610671510}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &403684848853542678
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -947,13 +980,18 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 207349751971810988, guid: 684c7e258e4add940939b1a12d52d368,
         type: 3}
+      propertyPath: root
+      value: 
+      objectReference: {fileID: 8492759940299697688}
+    - target: {fileID: 207349751971810988, guid: 684c7e258e4add940939b1a12d52d368,
+        type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 207349751971810988, guid: 684c7e258e4add940939b1a12d52d368,
         type: 3}
       propertyPath: plants.Array.size
-      value: 17
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 207349751971810988, guid: 684c7e258e4add940939b1a12d52d368,
         type: 3}
@@ -1119,6 +1157,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 403684848853542678}
   m_PrefabAsset: {fileID: 0}
+--- !u!4 &8492759940299697688 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8090282494297131278, guid: 684c7e258e4add940939b1a12d52d368,
+    type: 3}
+  m_PrefabInstance: {fileID: 403684848853542678}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &403684848988282278
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1128,13 +1172,18 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 207349751971810988, guid: 684c7e258e4add940939b1a12d52d368,
         type: 3}
+      propertyPath: root
+      value: 
+      objectReference: {fileID: 8492759940161803432}
+    - target: {fileID: 207349751971810988, guid: 684c7e258e4add940939b1a12d52d368,
+        type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 207349751971810988, guid: 684c7e258e4add940939b1a12d52d368,
         type: 3}
       propertyPath: plants.Array.size
-      value: 17
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 207349751971810988, guid: 684c7e258e4add940939b1a12d52d368,
         type: 3}
@@ -1300,6 +1349,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 403684848988282278}
   m_PrefabAsset: {fileID: 0}
+--- !u!4 &8492759940161803432 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8090282494297131278, guid: 684c7e258e4add940939b1a12d52d368,
+    type: 3}
+  m_PrefabInstance: {fileID: 403684848988282278}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &403684849111958458
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1384,13 +1439,18 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 207349751971810988, guid: 684c7e258e4add940939b1a12d52d368,
         type: 3}
+      propertyPath: root
+      value: 
+      objectReference: {fileID: 8492759939751411256}
+    - target: {fileID: 207349751971810988, guid: 684c7e258e4add940939b1a12d52d368,
+        type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 207349751971810988, guid: 684c7e258e4add940939b1a12d52d368,
         type: 3}
       propertyPath: plants.Array.size
-      value: 17
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 207349751971810988, guid: 684c7e258e4add940939b1a12d52d368,
         type: 3}
@@ -1556,6 +1616,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 403684849483298614}
   m_PrefabAsset: {fileID: 0}
+--- !u!4 &8492759939751411256 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8090282494297131278, guid: 684c7e258e4add940939b1a12d52d368,
+    type: 3}
+  m_PrefabInstance: {fileID: 403684849483298614}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &403684849581568304
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1565,13 +1631,18 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 207349751971810988, guid: 684c7e258e4add940939b1a12d52d368,
         type: 3}
+      propertyPath: root
+      value: 
+      objectReference: {fileID: 8492759939584915518}
+    - target: {fileID: 207349751971810988, guid: 684c7e258e4add940939b1a12d52d368,
+        type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 207349751971810988, guid: 684c7e258e4add940939b1a12d52d368,
         type: 3}
       propertyPath: plants.Array.size
-      value: 17
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 207349751971810988, guid: 684c7e258e4add940939b1a12d52d368,
         type: 3}
@@ -1737,6 +1808,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 403684849581568304}
   m_PrefabAsset: {fileID: 0}
+--- !u!4 &8492759939584915518 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8090282494297131278, guid: 684c7e258e4add940939b1a12d52d368,
+    type: 3}
+  m_PrefabInstance: {fileID: 403684849581568304}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &6981955661215904657
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1752,7 +1829,7 @@ PrefabInstance:
     - target: {fileID: 207349751971810988, guid: 684c7e258e4add940939b1a12d52d368,
         type: 3}
       propertyPath: plants.Array.size
-      value: 17
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 207349751971810988, guid: 684c7e258e4add940939b1a12d52d368,
         type: 3}
