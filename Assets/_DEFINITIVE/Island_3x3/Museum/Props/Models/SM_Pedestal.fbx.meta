@@ -3,7 +3,12 @@ guid: 68f15dcec2fc0ab46b3dcccd36bab64d
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Pedestal
+    second: {fileID: 2100000, guid: b3229cd6cdaf0024f8b630b123c0031d, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -68,7 +73,7 @@ ModelImporter:
     secondaryUVMinLightmapResolution: 40
     secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
-    useFileScale: 1
+    useFileScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
