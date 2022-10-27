@@ -73,7 +73,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 125
   m_IsActive: 1
 --- !u!4 &5172567938252225606
 Transform:
@@ -151,12 +151,13 @@ GameObject:
   - component: {fileID: 1955874583388151127}
   - component: {fileID: 8992273165164046621}
   - component: {fileID: 2857860099177437911}
+  - component: {fileID: 1239544570861997607}
   m_Layer: 0
   m_Name: SM_DirtBag_01_LOD0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 125
   m_IsActive: 1
 --- !u!4 &1955874583388151127
 Transform:
@@ -223,3 +224,16 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &1239544570861997607
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5446032287079073310}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.4247646, y: 0.65682936, z: 1.2041787}
+  m_Center: {x: -0.006533861, y: 0.32956952, z: -0.036607325}
