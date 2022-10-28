@@ -2,8 +2,16 @@ fileFormatVersion: 2
 guid: 4ede66b8d9ac7c848bf8f0390c98d921
 ModelImporter:
   serializedVersion: 21202
-  internalIDToNameTable: []
-  externalObjects: {}
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Bench
+    second: {fileID: 2100000, guid: 6b9ef68d154e4204bb958d14ad68db53, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -68,7 +76,7 @@ ModelImporter:
     secondaryUVMinLightmapResolution: 40
     secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
-    useFileScale: 1
+    useFileScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
