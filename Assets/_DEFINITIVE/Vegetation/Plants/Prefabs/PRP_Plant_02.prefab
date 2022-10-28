@@ -29,7 +29,6 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 2796090761552987458}
   - {fileID: 937380269913762842}
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -44,14 +43,14 @@ LODGroup:
   serializedVersion: 2
   m_LocalReferencePoint: {x: 0, y: 0.2067617, z: 0}
   m_Size: 0.95909894
-  m_FadeMode: 0
-  m_AnimateCrossFading: 0
+  m_FadeMode: 1
+  m_AnimateCrossFading: 1
   m_LastLODIsBillboard: 0
   m_LODs:
   - screenRelativeHeight: 0.25
     fadeTransitionWidth: 0
     renderers:
-    - renderer: {fileID: 1367666251682397737}
+    - renderer: {fileID: 0}
   - screenRelativeHeight: 0.01
     fadeTransitionWidth: 0
     renderers:
@@ -88,7 +87,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2369247085540293542}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &1881335199049890703
 MeshFilter:
@@ -140,84 +139,3 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!1001 &914489028589162744
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 2369247085540293542}
-    m_Modifications:
-    - target: {fileID: 3061708147305649594, guid: caac1090aa67d4749ae095225a749468,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3061708147305649594, guid: caac1090aa67d4749ae095225a749468,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3061708147305649594, guid: caac1090aa67d4749ae095225a749468,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3061708147305649594, guid: caac1090aa67d4749ae095225a749468,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3061708147305649594, guid: caac1090aa67d4749ae095225a749468,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3061708147305649594, guid: caac1090aa67d4749ae095225a749468,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3061708147305649594, guid: caac1090aa67d4749ae095225a749468,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3061708147305649594, guid: caac1090aa67d4749ae095225a749468,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3061708147305649594, guid: caac1090aa67d4749ae095225a749468,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3061708147305649594, guid: caac1090aa67d4749ae095225a749468,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3061708147305649594, guid: caac1090aa67d4749ae095225a749468,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5376750789618125076, guid: caac1090aa67d4749ae095225a749468,
-        type: 3}
-      propertyPath: m_Name
-      value: Plant_02_LOD0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: caac1090aa67d4749ae095225a749468, type: 3}
---- !u!23 &1367666251682397737 stripped
-MeshRenderer:
-  m_CorrespondingSourceObject: {fileID: 2182565596038508241, guid: caac1090aa67d4749ae095225a749468,
-    type: 3}
-  m_PrefabInstance: {fileID: 914489028589162744}
-  m_PrefabAsset: {fileID: 0}
---- !u!4 &2796090761552987458 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 3061708147305649594, guid: caac1090aa67d4749ae095225a749468,
-    type: 3}
-  m_PrefabInstance: {fileID: 914489028589162744}
-  m_PrefabAsset: {fileID: 0}
