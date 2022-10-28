@@ -82,7 +82,7 @@ Material:
     - _FoamShadowDepth: 8.43
     - _FoamShadowStrength: 0.245
     - _IntersectionFoamBlend: 1
-    - _IntersectionFoamDepth: 0.41
+    - _IntersectionFoamDepth: 4.41
     - _IntersectionFoamScale: 0.19
     - _IntersectionFoamShadowProjection: 2.8
     - _IntersectionWaterBlend: 1
