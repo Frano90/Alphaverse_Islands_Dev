@@ -7,9 +7,9 @@ TerrainLayer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: CliffLayerBig
-  m_DiffuseTexture: {fileID: 2800000, guid: ddd247624ff67f448b435d30e5c92ce5, type: 3}
+  m_DiffuseTexture: {fileID: 2800000, guid: 20e973369f29b074d9a3d2c2025bc002, type: 3}
   m_NormalMapTexture: {fileID: 2800000, guid: e4788c720f2f09a4693fe991d1f6980b, type: 3}
-  m_MaskMapTexture: {fileID: 2800000, guid: 941221445a6e72e42afc94174779fd6e, type: 3}
+  m_MaskMapTexture: {fileID: 2800000, guid: 47065b7d4d8fce845833f4c9a596f210, type: 3}
   m_TileSize: {x: 18, y: 18}
   m_TileOffset: {x: 0, y: 0}
   m_Specular: {r: 0, g: 0, b: 0, a: 0}
@@ -17,6 +17,6 @@ TerrainLayer:
   m_Smoothness: 0
   m_NormalScale: 3
   m_DiffuseRemapMin: {x: 0, y: 0, z: 0, w: 1}
-  m_DiffuseRemapMax: {x: 0.9716981, y: 0.876162, z: 0.71960664, w: 1}
+  m_DiffuseRemapMax: {x: 1, y: 1, z: 1, w: 1}
   m_MaskMapRemapMin: {x: 0, y: 1, z: 0, w: 0}
   m_MaskMapRemapMax: {x: 0, y: 1, z: 1, w: 0}

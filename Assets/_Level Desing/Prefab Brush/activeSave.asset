@@ -14,47 +14,51 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   prefabList: []
   prefabData:
-  - prefab: {fileID: 403684848439573384, guid: 056060bda56df71429a2799c62b62567, type: 3}
+  - prefab: {fileID: 6771396824435959443, guid: d1b06332f57f59749b0ad989413c7f44,
+      type: 3}
     selected: 0
-  - prefab: {fileID: 2049036933210731596, guid: 3430250fddc626344b6230b834b24a6a,
+  - prefab: {fileID: 225258206966736149, guid: 17ec09ec0718c074fa18351660f47a56, type: 3}
+    selected: 0
+  - prefab: {fileID: 3538468840869811080, guid: 69ec6435758907343b4f540cb50cf5b3,
+      type: 3}
+    selected: 0
+  - prefab: {fileID: 7134994382850823643, guid: 782424ef60b5d6b47b12d4db3c9455a7,
+      type: 3}
+    selected: 0
+  - prefab: {fileID: 1960844236708463733, guid: 52202b428c93675499f1d787e93be31b,
       type: 3}
     selected: 1
-  - prefab: {fileID: 1649764091531996896, guid: c0357f570191cb44cb0f2675116f9bb5,
+  - prefab: {fileID: 2665002134388066620, guid: 54d9f8a7e45bf2b45bd950c3d6602823,
       type: 3}
     selected: 1
-  - prefab: {fileID: 432236651814014414, guid: 306b917900186464897394408f3b27d9, type: 3}
-    selected: 1
-  - prefab: {fileID: 3745919383911630876, guid: f97ab1547bee5d24e946639a9a7a253d,
+  - prefab: {fileID: 4845993962308656247, guid: e872d9b0791ea9443bd17ba7e34b7dae,
       type: 3}
     selected: 1
-  - prefab: {fileID: 4050670237227329509, guid: 8b2214c4cd291484285eaa10709a32db,
-      type: 3}
-    selected: 0
-  - prefab: {fileID: 8217754020130179233, guid: 6953d51687d0ae043ad18fc9f983fe45,
-      type: 3}
-    selected: 0
-  - prefab: {fileID: 1169198545990185692, guid: 615f7dae4a772fc4c82c6de05ed10fe1,
-      type: 3}
-    selected: 0
-  - prefab: {fileID: 4472524148133564251, guid: 684c7e258e4add940939b1a12d52d368,
-      type: 3}
-    selected: 0
-  - prefab: {fileID: 5376526933301311029, guid: d24480ebd68da4544b724731969365f0,
-      type: 3}
-    selected: 0
-  - prefab: {fileID: 3800458528740578905, guid: 6b3e630a1416893409fe06965a7547fe,
-      type: 3}
-    selected: 0
-  - prefab: {fileID: 7606992105126126005, guid: 899d0fdc1a15a844ab5a51ca9ac7c304,
+  - prefab: {fileID: 5994932836311107737, guid: f0ea5e9974da8c94898ed6da8a496d73,
       type: 3}
     selected: 1
-  - prefab: {fileID: 7475830043425431227, guid: 96810b8957d664647b8198e4984decd5,
+  - prefab: {fileID: 5155773086348910029, guid: 463385db6a976624abbe8dc909224f02,
+      type: 3}
+    selected: 1
+  - prefab: {fileID: 1960844236708463733, guid: 9d3ea06450c0e5c428896b31bffaf8d5,
       type: 3}
     selected: 0
-  - prefab: {fileID: 2049036933210731596, guid: 3430250fddc626344b6230b834b24a6a,
+  - prefab: {fileID: 2665002134388066620, guid: cc8abf2fffd6fe041a4067132d5dcd96,
       type: 3}
     selected: 0
-  - prefab: {fileID: 1649764091531996896, guid: c0357f570191cb44cb0f2675116f9bb5,
+  - prefab: {fileID: 3606400513933554907, guid: a51f82da078b6c943a90665d4295b213,
+      type: 3}
+    selected: 0
+  - prefab: {fileID: 4845993962308656247, guid: 3b222f411e90a954493a30b4758fd28a,
+      type: 3}
+    selected: 0
+  - prefab: {fileID: 7465341210349653893, guid: e431101ac5556a04c8b2e9a737a5c960,
+      type: 3}
+    selected: 0
+  - prefab: {fileID: 5994932836311107737, guid: 36a707e5141e4f74c8ba9445bd57b435,
+      type: 3}
+    selected: 0
+  - prefab: {fileID: 5155773086348910029, guid: 727df69064cffb04b8ef341bad8e2392,
       type: 3}
     selected: 0
   paintType: 0
@@ -77,7 +81,7 @@ MonoBehaviour:
   ignoreTriggers: 1
   chainPivotAxis: 0
   chainDirection: 0
-  requiredTagMask: 256
+  requiredTagMask: -1
   requiredLayerMask: 0
   minRequiredSlope: 0
   maxRequiredSlope: 0
@@ -90,7 +94,7 @@ MonoBehaviour:
   parent: {fileID: 0}
   rotateToMatchSurface: 1
   rotateSurfaceDirection: 0
-  randomizeRotation: 1
+  randomizeRotation: 0
   minXRotation: 0
   maxXRotation: 0
   minYRotation: 0
@@ -102,11 +106,11 @@ MonoBehaviour:
   minScale: 1
   maxScale: 1
   minXScale: 1
-  maxXScale: 2
+  maxXScale: 1
   minYScale: 1
-  maxYScale: 2
+  maxYScale: 1
   minZScale: 1
-  maxZScale: 2
+  maxZScale: 1
   parentList: []
   eraseBrushSize: 1
   minEraseBrushSize: 0.1

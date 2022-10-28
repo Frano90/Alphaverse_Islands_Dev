@@ -11,12 +11,13 @@ GameObject:
   - component: {fileID: 7349141030901813416}
   - component: {fileID: 5932013948334874381}
   - component: {fileID: 8482046148121029575}
+  - component: {fileID: 7291551718740126550}
   m_Layer: 0
   m_Name: Prefab_LD_SM_Font
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 125
   m_IsActive: 1
 --- !u!4 &7349141030901813416
 Transform:
@@ -85,3 +86,17 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!136 &7291551718740126550
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7977762217918908946}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 3.6
+  m_Height: 4.8537464
+  m_Direction: 1
+  m_Center: {x: 0, y: 1.36, z: 0}
