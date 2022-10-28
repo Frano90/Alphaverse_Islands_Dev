@@ -176,7 +176,6 @@ GameObject:
   m_Component:
   - component: {fileID: 3844466220777330145}
   - component: {fileID: 8286717880610153104}
-  - component: {fileID: 207349751971810988}
   m_Layer: 0
   m_Name: LD_Prefab_SM_Pot
   m_TagString: Untagged
@@ -212,8 +211,8 @@ LODGroup:
   serializedVersion: 2
   m_LocalReferencePoint: {x: 0.00000029802322, y: 0.28373662, z: 0}
   m_Size: 0.5663901
-  m_FadeMode: 1
-  m_AnimateCrossFading: 1
+  m_FadeMode: 0
+  m_AnimateCrossFading: 0
   m_LastLODIsBillboard: 0
   m_LODs:
   - screenRelativeHeight: 0.25
@@ -225,38 +224,6 @@ LODGroup:
     renderers:
     - renderer: {fileID: 7745062878172833991}
   m_Enabled: 1
---- !u!114 &207349751971810988
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4472524148133564251}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 158e2b86aaecaec4e8dfdd4350ea4562, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  root: {fileID: 8090282494297131278}
-  plants:
-  - {fileID: 7614687352732330748, guid: c89e9606ea3edac49bbd897f26e31502, type: 3}
-  - {fileID: 3257915120021359639, guid: 70b14db46e887d94bacd2b08fd4aa21d, type: 3}
-  - {fileID: 4497552665288578154, guid: 87c1a3338770f8a44901ac5e62d99883, type: 3}
-  - {fileID: 3733296745075796511, guid: de84c5722d85f33419fb991d5cd84639, type: 3}
-  - {fileID: 1678610614121368790, guid: cc15f636e9d9402478748547b7971bcf, type: 3}
-  - {fileID: 3014184012377878963, guid: 01912a1713b04e7438f2dbb1bb2a0171, type: 3}
-  - {fileID: 3926036864208303067, guid: 9ac8917554c0ed5498fe049f1c75b181, type: 3}
-  - {fileID: 8724501567491245851, guid: 33c45b88f7a410548b5d30b6b43a6aff, type: 3}
-  - {fileID: 3532823701676673492, guid: 9a935a9775467f244a0edc4a6c0cc927, type: 3}
-  - {fileID: 8403085604105862760, guid: 570436718c71efb4281788d0ac2fd202, type: 3}
-  - {fileID: 7673279343459599289, guid: c84e1368f186f7642b4ffce2581f1a0a, type: 3}
-  - {fileID: 8077366526656126355, guid: d15e57709a8d24943acdfabb63c6d9e7, type: 3}
-  - {fileID: 3241490875174549541, guid: 3bdc064b74d47604eb82491aaaf75db9, type: 3}
-  - {fileID: 8305492007349089285, guid: 54150a86898ec8644b5905c5ddd875e9, type: 3}
-  - {fileID: 4434605920236930085, guid: 4302200f9b7fce04aac3f9ac1e5c3bcf, type: 3}
-  - {fileID: 8267413436267132891, guid: fa447a05f07f2e7469bff3fc64f0f4b8, type: 3}
-  clinds: []
-  isSet: 0
 --- !u!1 &5858556014033011002
 GameObject:
   m_ObjectHideFlags: 0
