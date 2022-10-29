@@ -12,8 +12,28 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: M_GlassTower_FloorInt
+    second: {fileID: 2100000, guid: eaf8e236187c8f24a9df47b1483fe7e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_GlassTower_InteriorWall
+    second: {fileID: 2100000, guid: 0357aae9aae430a478dd208b21a6ae6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: M_Glasstower_DomeLobbyExt
     second: {fileID: 2100000, guid: 4de8f2e74d2278b44bc5cda14c7f5d51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Glasstower_DomeLobbyExt_CutOut
+    second: {fileID: 2100000, guid: 3ec212df9c3179b4e9fc8b13db47550c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Glasstower_DomeLobbyExt_Opacity
+    second: {fileID: 2100000, guid: 62d2ea4cef2dd664888df6c494350b97, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -22,8 +42,33 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: M_Glasstower_DoorWinCol_Opacity
+    second: {fileID: 2100000, guid: 43a0fdf51feb19a4a975764c7e685017, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Glasstower_ElevatorLampPedestal
+    second: {fileID: 2100000, guid: f86ab64a758e21d4b81d26dda19fcbc7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Glasstower_ElevatorLampPedestal_Opacity
+    second: {fileID: 2100000, guid: 3de57c4ca70fdb340a87e29791e124dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: M_Glasstower_Flowers_Card
     second: {fileID: 2100000, guid: 4d4fddc6d2f4518448b5ba12641ca7fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Glasstower_InteriorTrim
+    second: {fileID: 2100000, guid: 650d909ec22396f4d9a7fabb858b6ccb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Glasstower_InteriorTrim_Opacity
+    second: {fileID: 2100000, guid: 7a1573c4ef879c2479b19c09322f3ff2, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
