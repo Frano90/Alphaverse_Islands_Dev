@@ -27,6 +27,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: M_Glasstower_DomeLobbyExt_CutOut
+    second: {fileID: 2100000, guid: 3ec212df9c3179b4e9fc8b13db47550c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: M_Glasstower_DomeLobbyExt_Opacity
     second: {fileID: 2100000, guid: 62d2ea4cef2dd664888df6c494350b97, type: 2}
   - first:
