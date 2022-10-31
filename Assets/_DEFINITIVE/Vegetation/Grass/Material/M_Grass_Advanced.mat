@@ -148,12 +148,12 @@ Material:
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _ColorBladeDetails: {r: 0.20700668, g: 0.5, b: 0.025943398, a: 1}
-    - _ColorBladeDetails1: {r: 0.20784315, g: 0.5019608, b: 0.027450982, a: 0}
+    - _ColorBladeDetails1: {r: 0.20784312, g: 0.5019608, b: 0.027450982, a: 0}
     - _ColorBottom: {r: 0.3333333, g: 0.7529412, b: 0.082352914, a: 1}
-    - _ColorBottom1: {r: 0.26925772, g: 0.49056602, b: 0.011569952, a: 1}
+    - _ColorBottom1: {r: 0.2692577, g: 0.49056596, b: 0.011569952, a: 1}
     - _ColorOVerlay: {r: 1, g: 0.9371227, b: 0, a: 1}
     - _ColorTop: {r: 0.23921569, g: 0.54509807, b: 0.07450981, a: 1}
-    - _ColorTop1: {r: 0.37178555, g: 0.6603774, b: 0.04049486, a: 1}
+    - _ColorTop1: {r: 0.37178552, g: 0.6603774, b: 0.04049483, a: 1}
     - _ColorTopVariation: {r: 0.9147414, g: 1, b: 0, a: 1}
     - _ColorTopVariation1: {r: 0.91372555, g: 1, b: 0, a: 0}
     - _ColorWave: {r: 0.07332755, g: 0.25471687, b: 0, a: 1}
