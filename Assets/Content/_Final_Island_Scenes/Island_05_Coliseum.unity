@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 1
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 2100000, guid: cdbb40e11399e4a17882ada20a1b896a, type: 2}
+  m_SkyboxMaterial: {fileID: 2100000, guid: 34805d29bbc2b664b8cdf0715da5e1e1, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 1892567693}
-  m_IndirectSpecularColor: {r: 0.12076032, g: 0.18643649, b: 0.3352496, a: 1}
+  m_IndirectSpecularColor: {r: 0.18118736, g: 0.3596096, b: 0.48702842, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -2296,7 +2296,7 @@ PrefabInstance:
     - target: {fileID: 3720750813357020524, guid: dbda6eaab6842fb40a9470340db7a3f6,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -176.25
+      value: -174.67554
       objectReference: {fileID: 0}
     - target: {fileID: 3720750813357020524, guid: dbda6eaab6842fb40a9470340db7a3f6,
         type: 3}
@@ -2306,7 +2306,7 @@ PrefabInstance:
     - target: {fileID: 3720750813357020524, guid: dbda6eaab6842fb40a9470340db7a3f6,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -360.32996
+      value: -356.64746
       objectReference: {fileID: 0}
     - target: {fileID: 4959720676163437619, guid: dbda6eaab6842fb40a9470340db7a3f6,
         type: 3}
@@ -2366,7 +2366,7 @@ PrefabInstance:
     - target: {fileID: 5998529024007224899, guid: dbda6eaab6842fb40a9470340db7a3f6,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -176.25
+      value: -174.67554
       objectReference: {fileID: 0}
     - target: {fileID: 5998529024007224899, guid: dbda6eaab6842fb40a9470340db7a3f6,
         type: 3}
@@ -2376,7 +2376,7 @@ PrefabInstance:
     - target: {fileID: 5998529024007224899, guid: dbda6eaab6842fb40a9470340db7a3f6,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -360.32996
+      value: -356.64746
       objectReference: {fileID: 0}
     - target: {fileID: 5998529024007224899, guid: dbda6eaab6842fb40a9470340db7a3f6,
         type: 3}
@@ -2401,12 +2401,12 @@ PrefabInstance:
     - target: {fileID: 5998529024007224900, guid: dbda6eaab6842fb40a9470340db7a3f6,
         type: 3}
       propertyPath: far clip plane
-      value: 5000
+      value: 500
       objectReference: {fileID: 0}
     - target: {fileID: 5998529024007224900, guid: dbda6eaab6842fb40a9470340db7a3f6,
         type: 3}
       propertyPath: near clip plane
-      value: 0.1
+      value: 0.2
       objectReference: {fileID: 0}
     - target: {fileID: 8216202349183659550, guid: dbda6eaab6842fb40a9470340db7a3f6,
         type: 3}
@@ -8105,6 +8105,21 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 1af49a9f5d76dc8428bda1e57e07b089, type: 2}
+    - target: {fileID: 6489436291385224727, guid: a815a4e40d503e84ea8e02a55fc2d7fe,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 411.6148
+      objectReference: {fileID: 0}
+    - target: {fileID: 6489436291385224727, guid: a815a4e40d503e84ea8e02a55fc2d7fe,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.9401057
+      objectReference: {fileID: 0}
+    - target: {fileID: 6489436291385224727, guid: a815a4e40d503e84ea8e02a55fc2d7fe,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 411.6148
+      objectReference: {fileID: 0}
     - target: {fileID: 6489436291385224730, guid: a815a4e40d503e84ea8e02a55fc2d7fe,
         type: 3}
       propertyPath: m_IsActive
