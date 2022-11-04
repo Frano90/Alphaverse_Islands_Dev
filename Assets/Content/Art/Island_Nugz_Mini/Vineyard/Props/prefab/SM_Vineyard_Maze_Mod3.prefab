@@ -290,11 +290,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8176799582801932181, guid: 54edda823ced18e49b83fd03da862645,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 666e49296746b7548bb2cbafb90edf0d, type: 2}
+    - target: {fileID: -8176799582801932181, guid: 54edda823ced18e49b83fd03da862645,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 30243c90016f9da48a51dcfdff8416a0, type: 2}
     - target: {fileID: 919132149155446097, guid: 54edda823ced18e49b83fd03da862645,
         type: 3}
       propertyPath: m_Name
       value: SM_Vineyard_Maze_Mod3
       objectReference: {fileID: 0}
+    - target: {fileID: 2717109450451009250, guid: 54edda823ced18e49b83fd03da862645,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 30243c90016f9da48a51dcfdff8416a0, type: 2}
     - target: {fileID: 4742473837712756890, guid: 54edda823ced18e49b83fd03da862645,
         type: 3}
       propertyPath: m_LODs.Array.data[0].screenRelativeHeight
@@ -305,6 +320,16 @@ PrefabInstance:
       propertyPath: m_LODs.Array.data[1].screenRelativeHeight
       value: 0.03245163
       objectReference: {fileID: 0}
+    - target: {fileID: 7987075861091954317, guid: 54edda823ced18e49b83fd03da862645,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 30243c90016f9da48a51dcfdff8416a0, type: 2}
+    - target: {fileID: 7987075861091954317, guid: 54edda823ced18e49b83fd03da862645,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 666e49296746b7548bb2cbafb90edf0d, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 54edda823ced18e49b83fd03da862645, type: 3}
 --- !u!4 &8533064889959562227 stripped

@@ -225,6 +225,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Vineyard_Maze_Mod0
       objectReference: {fileID: 0}
+    - target: {fileID: 3164804812891389376, guid: 0d0c5e5b8638bd34986344cca5736d89,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 666e49296746b7548bb2cbafb90edf0d, type: 2}
     m_RemovedComponents:
     - {fileID: 4742473837712756890, guid: 0d0c5e5b8638bd34986344cca5736d89, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 0d0c5e5b8638bd34986344cca5736d89, type: 3}
