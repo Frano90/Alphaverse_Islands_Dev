@@ -49,11 +49,11 @@ LODGroup:
   m_AnimateCrossFading: 0
   m_LastLODIsBillboard: 0
   m_LODs:
-  - screenRelativeHeight: 0.25
+  - screenRelativeHeight: 0.068827376
     fadeTransitionWidth: 0
     renderers:
     - renderer: {fileID: 0}
-  - screenRelativeHeight: 0.125
+  - screenRelativeHeight: 0.033151552
     fadeTransitionWidth: 0
     renderers:
     - renderer: {fileID: 0}
@@ -318,10 +318,45 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 479645898246818911, guid: 1af3624509c438e4a8869e17f4cfd0bc,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 30243c90016f9da48a51dcfdff8416a0, type: 2}
+    - target: {fileID: 479645898246818911, guid: 1af3624509c438e4a8869e17f4cfd0bc,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 666e49296746b7548bb2cbafb90edf0d, type: 2}
     - target: {fileID: 919132149155446097, guid: 1af3624509c438e4a8869e17f4cfd0bc,
         type: 3}
       propertyPath: m_Name
       value: SM_Vineyard_Maze_Mod1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2596419035983473933, guid: 1af3624509c438e4a8869e17f4cfd0bc,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 666e49296746b7548bb2cbafb90edf0d, type: 2}
+    - target: {fileID: 2596419035983473933, guid: 1af3624509c438e4a8869e17f4cfd0bc,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 30243c90016f9da48a51dcfdff8416a0, type: 2}
+    - target: {fileID: 4024652201500947178, guid: 1af3624509c438e4a8869e17f4cfd0bc,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 30243c90016f9da48a51dcfdff8416a0, type: 2}
+    - target: {fileID: 4742473837712756890, guid: 1af3624509c438e4a8869e17f4cfd0bc,
+        type: 3}
+      propertyPath: m_LODs.Array.data[0].screenRelativeHeight
+      value: 0.068827376
+      objectReference: {fileID: 0}
+    - target: {fileID: 4742473837712756890, guid: 1af3624509c438e4a8869e17f4cfd0bc,
+        type: 3}
+      propertyPath: m_LODs.Array.data[1].screenRelativeHeight
+      value: 0.031263355
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1af3624509c438e4a8869e17f4cfd0bc, type: 3}
