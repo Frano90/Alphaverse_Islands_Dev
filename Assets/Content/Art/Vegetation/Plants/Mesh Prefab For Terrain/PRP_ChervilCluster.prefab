@@ -11,7 +11,6 @@ GameObject:
   - component: {fileID: 6137353886001529273}
   - component: {fileID: 4145453661887832872}
   - component: {fileID: 4669204869666688471}
-  - component: {fileID: 189075839926673912}
   m_Layer: 0
   m_Name: PRP_ChervilCluster
   m_TagString: Untagged
@@ -84,22 +83,3 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!205 &189075839926673912
-LODGroup:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 980122037169346444}
-  serializedVersion: 2
-  m_LocalReferencePoint: {x: 0.037445724, y: 0.43423548, z: -0.036543578}
-  m_Size: 0.87366754
-  m_FadeMode: 1
-  m_AnimateCrossFading: 1
-  m_LastLODIsBillboard: 0
-  m_LODs:
-  - screenRelativeHeight: 0.053109232
-    fadeTransitionWidth: 0
-    renderers:
-    - renderer: {fileID: 4669204869666688471}
-  m_Enabled: 1
