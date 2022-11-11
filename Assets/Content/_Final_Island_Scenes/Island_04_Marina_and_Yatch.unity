@@ -585,6 +585,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cliff02 1 (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 2665002134388066620, guid: cc8abf2fffd6fe041a4067132d5dcd96,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3436297088175674246, guid: cc8abf2fffd6fe041a4067132d5dcd96,
         type: 3}
       propertyPath: m_RootOrder
@@ -613,7 +618,7 @@ PrefabInstance:
     - target: {fileID: 3436297088175674246, guid: cc8abf2fffd6fe041a4067132d5dcd96,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -10.2
+      value: -13.8
       objectReference: {fileID: 0}
     - target: {fileID: 3436297088175674246, guid: cc8abf2fffd6fe041a4067132d5dcd96,
         type: 3}
@@ -11787,7 +11792,7 @@ PrefabInstance:
     - target: {fileID: 7841304524446340415, guid: e431101ac5556a04c8b2e9a737a5c960,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 30.8
+      value: 28.7
       objectReference: {fileID: 0}
     - target: {fileID: 7841304524446340415, guid: e431101ac5556a04c8b2e9a737a5c960,
         type: 3}
