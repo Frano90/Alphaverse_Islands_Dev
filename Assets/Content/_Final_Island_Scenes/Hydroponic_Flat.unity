@@ -37,8 +37,8 @@ RenderSettings:
   m_ReflectionBounces: 1
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
-  m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.22580266, g: 0.36526045, b: 0.41598198, a: 1}
+  m_Sun: {fileID: 104784585}
+  m_IndirectSpecularColor: {r: 0.22586049, g: 0.36539948, b: 0.41697842, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -97,8 +97,10 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 0}
-  m_LightingSettings: {fileID: 0}
+  m_LightingDataAsset: {fileID: 112000000, guid: bc16c37bebd38ef48b522293e0aa1611,
+    type: 2}
+  m_LightingSettings: {fileID: 4890085278179872738, guid: c8fd58b7085e81c48b5f708ac8360464,
+    type: 2}
 --- !u!196 &4
 NavMeshSettings:
   serializedVersion: 2
@@ -409,8 +411,24 @@ PrefabInstance:
       propertyPath: m_Name
       value: Directional Light PREFAB
       objectReference: {fileID: 0}
+    - target: {fileID: 6825877644825226878, guid: 2c869b7bbea6a1c4c93a567f189582c3,
+        type: 3}
+      propertyPath: m_Shadows.m_Type
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6825877644825226878, guid: 2c869b7bbea6a1c4c93a567f189582c3,
+        type: 3}
+      propertyPath: m_Shadows.m_Strength
+      value: 0.708
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2c869b7bbea6a1c4c93a567f189582c3, type: 3}
+--- !u!108 &104784585 stripped
+Light:
+  m_CorrespondingSourceObject: {fileID: 6825877644825226878, guid: 2c869b7bbea6a1c4c93a567f189582c3,
+    type: 3}
+  m_PrefabInstance: {fileID: 104784584}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &115999494 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2489508106138473658, guid: 6a85e7b4d5efde14badaa5157484c270,
@@ -5493,6 +5511,30 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 448190759, guid: 3233960fda5cfc045b6384ade9603199, type: 3}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 448190759, guid: 3233960fda5cfc045b6384ade9603199, type: 3}
+      propertyPath: m_SpotAngle
+      value: 134.35321
+      objectReference: {fileID: 0}
+    - target: {fileID: 448190759, guid: 3233960fda5cfc045b6384ade9603199, type: 3}
+      propertyPath: m_AreaSize.x
+      value: 2.17
+      objectReference: {fileID: 0}
+    - target: {fileID: 448190759, guid: 3233960fda5cfc045b6384ade9603199, type: 3}
+      propertyPath: m_InnerSpotAngle
+      value: 103.953125
+      objectReference: {fileID: 0}
+    - target: {fileID: 448190760, guid: 3233960fda5cfc045b6384ade9603199, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.842
+      objectReference: {fileID: 0}
+    - target: {fileID: 1671908885, guid: 3233960fda5cfc045b6384ade9603199, type: 3}
+      propertyPath: m_Lightmapping
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1671853583161386123, guid: 3233960fda5cfc045b6384ade9603199,
         type: 3}
       propertyPath: m_Name
