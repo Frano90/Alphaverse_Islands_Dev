@@ -55,7 +55,7 @@ Material:
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _FoamColor: {r: 1, g: 1, b: 1, a: 0}
     - _MainColor: {r: 0.60784316, g: 0.80392164, b: 0.8862746, a: 0}
-    - _Speed: {r: 0, g: 0.1, b: 0, a: 0}
+    - _Speed: {r: 0, g: 0.02, b: 0, a: 0}
     - _Tilling: {r: 1, g: 1, b: 0, a: 0}
     - _Vector0: {r: 0, g: 0.1, b: 0, a: 0}
     - _Vector1: {r: 2.51, g: 1.02, b: 0, a: 0}
