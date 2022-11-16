@@ -31,18 +31,20 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    m_Ints: []
     m_Floats:
+    - _AlphaCutoff: 0.5
     - _DepthDistance: 0.16
     - _DepthOffset: 1.86
     - _Float0: 0.15
     - _Float1: 0.19
     - _IntensityVertexColor: 1
     - _Max: 0.75
-    - _MaxFoamMovement: 0.75
-    - _MaxFoamStatic: 0.19
+    - _MaxFoamMovement: 0.35
+    - _MaxFoamStatic: 0.08
     - _Min: 0.65
-    - _MinFoamMovement: 0.65
-    - _MinFoamStatic: 0.17
+    - _MinFoamMovement: 0.33
+    - _MinFoamStatic: 0.08
     - _Smoothness: 0.94345415
     - __dirty: 0
     m_Colors:
@@ -50,10 +52,11 @@ Material:
     - _Color1: {r: 1, g: 1, b: 1, a: 0}
     - _Color2: {r: 1, g: 1, b: 1, a: 0}
     - _DepthColor: {r: 1, g: 1, b: 1, a: 0}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _FoamColor: {r: 1, g: 1, b: 1, a: 0}
     - _MainColor: {r: 0.60784316, g: 0.80392164, b: 0.8862746, a: 0}
     - _Speed: {r: 0, g: 0.1, b: 0, a: 0}
-    - _Tilling: {r: 1, g: 0.34, b: 0, a: 0}
+    - _Tilling: {r: 1, g: 1, b: 0, a: 0}
     - _Vector0: {r: 0, g: 0.1, b: 0, a: 0}
     - _Vector1: {r: 2.51, g: 1.02, b: 0, a: 0}
   m_BuildTextureStacks: []
