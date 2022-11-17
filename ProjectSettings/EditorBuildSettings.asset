@@ -20,7 +20,10 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
-  - enabled: 1
+  - enabled: 0
     path: Assets/Content/_Final_Island_Scenes/Hydroponic_Flat.unity
     guid: 0ef2ff2230ff13d4a9cfd78022515897
+  - enabled: 1
+    path: Assets/Content/HUD BLOCKING/HUD BLOCKING.unity
+    guid: 5c9e676b8355f0541a8317f67f61f36d
   m_configObjects: {}
