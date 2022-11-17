@@ -28,7 +28,7 @@ Material:
     - _AlphaCutoff: 0.5
     - _DepthDistance: 0.57
     - _DepthOffset: 0.43
-    - _IntensityVertexColor: 0.955
+    - _IntensityVertexColor: 1
     - _MinFoamMovement: 0.12
     m_Colors:
     - _DepthColor: {r: 0.5613208, g: 0.8087244, b: 1, a: 0}
@@ -36,5 +36,5 @@ Material:
     - _FoamColor: {r: 1, g: 1, b: 1, a: 0}
     - _MainColor: {r: 0.7783019, g: 0.9032997, b: 1, a: 0}
     - _Speed: {r: 0, g: 0.1, b: 0, a: 0}
-    - _Tilling: {r: 1, g: 1, b: 0, a: 0}
+    - _Tilling: {r: 1.46, g: 0.27, b: 0, a: 0}
   m_BuildTextureStacks: []
