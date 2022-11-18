@@ -35,6 +35,10 @@ Material:
         m_Texture: {fileID: 2800000, guid: 9fc0980eb0090444597608d447b44820, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: 2f99e35e6ad907f408c3ec1980f11cef, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _TextureSample0:
         m_Texture: {fileID: 2800000, guid: 2f99e35e6ad907f408c3ec1980f11cef, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -43,6 +47,10 @@ Material:
         m_Texture: {fileID: 2800000, guid: 2f99e35e6ad907f408c3ec1980f11cef, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _TextureSample5:
+        m_Texture: {fileID: 2800000, guid: 2f99e35e6ad907f408c3ec1980f11cef, type: 3}
+        m_Scale: {x: 0.66, y: 20}
+        m_Offset: {x: 0, y: 0}
     - _texcoord:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -50,26 +58,28 @@ Material:
     m_Ints: []
     m_Floats:
     - _AlphaCutoff: 0.5
-    - _DepthDistance: 1
+    - _DepthDistance: 3
     - _DetailSize: 0.23
     - _Distance: 0.59
-    - _Float0: 0.02
+    - _Float0: 0.068
     - _Float1: 0.17
     - _FlowIntensity: 1
     - _Intensity: 0.42
-    - _MaskColor: 0.332
+    - _MaskColor: 0.5
+    - _Metallic: 0.158
     - _Normal: 0
-    - _Smoothness: 1
+    - _ScaleNormal: 0.068
+    - _Smoothness: 0.804
     m_Colors:
     - _Color0: {r: 0.6273585, g: 0.811718, b: 1, a: 0}
-    - _ColorMask: {r: 0.48584908, g: 0.6995747, b: 1, a: 0}
-    - _DepthSpeed: {r: 0, g: 0.31, b: 0, a: 0}
+    - _ColorMask: {r: 0.48584896, g: 0.6995747, b: 1, a: 0}
+    - _DepthSpeed: {r: 0, g: 0.2, b: 0, a: 0}
     - _DetailSpeed: {r: 0, g: 0.1, b: 0, a: 0}
     - _DetailTilling: {r: 2.56, g: 10.76, b: 0, a: 0}
     - _Dir: {r: 0, g: 1, b: 0, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
-    - _MainColor: {r: 0.5518868, g: 0.8079514, b: 1, a: 0}
-    - _SecondFoamColor: {r: 0.62745106, g: 0.8298223, b: 1, a: 0}
+    - _MainColor: {r: 0.5518868, g: 0.80795133, b: 1, a: 0}
+    - _SecondFoamColor: {r: 0, g: 0.49411774, b: 1, a: 0}
     - _Speed: {r: 0, g: 0.1, b: 0, a: 0}
     - _SpeedOffset: {r: 0, g: 0.1, b: 0, a: 0}
     - _Speed_1: {r: 0, g: 0.1, b: 0, a: 0}

@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: M_DecalFoam
+  m_Name: M_Decal_Foam
   m_Shader: {fileID: 4800000, guid: 749a180d4c804444d9a510418926174b, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -59,7 +59,7 @@ Material:
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _Speed: {r: 0, g: 2.03, b: 0, a: 0}
     - _Speed_2: {r: -0.24, g: 1.8, b: 0, a: 0}
-    - _Tilling: {r: 4, g: 2, b: 0, a: 0}
-    - _Tilling_2: {r: 6, g: 2, b: 0, a: 0}
+    - _Tilling: {r: 8, g: 5, b: 0, a: 0}
+    - _Tilling_2: {r: 8, g: 7, b: 0, a: 0}
     - _WaterColor: {r: 0.60784316, g: 0.80392164, b: 0.8862746, a: 1}
   m_BuildTextureStacks: []
