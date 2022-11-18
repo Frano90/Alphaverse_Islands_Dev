@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: M_WaterFall
-  m_Shader: {fileID: 4800000, guid: 69b3c85154690ab4ea933637d57638fb, type: 3}
+  m_Name: Custom_S_Splash
+  m_Shader: {fileID: 4800000, guid: 71a23f2ccfba1a342b4fa5fc210af447, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -19,22 +19,22 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - _BaseTexture:
+    - _Mask:
         m_Texture: {fileID: 2800000, guid: 9fc0980eb0090444597608d447b44820, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _T_Splash2:
+        m_Texture: {fileID: 2800000, guid: 642580a75d99d93498a769e4ef5657d1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
     - _AlphaCutoff: 0.5
-    - _DepthDistance: 0.57
-    - _DepthOffset: 0.43
-    - _IntensityVertexColor: 1
-    - _MinFoamMovement: 0.12
+    - _Float0: 0
     m_Colors:
-    - _DepthColor: {r: 0.5613208, g: 0.8087244, b: 1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
-    - _FoamColor: {r: 1, g: 1, b: 1, a: 0}
-    - _MainColor: {r: 0.7783019, g: 0.9032997, b: 1, a: 0}
-    - _Speed: {r: 0, g: 0.1, b: 0, a: 0}
-    - _Tilling: {r: 1.46, g: 0.27, b: 0, a: 0}
   m_BuildTextureStacks: []

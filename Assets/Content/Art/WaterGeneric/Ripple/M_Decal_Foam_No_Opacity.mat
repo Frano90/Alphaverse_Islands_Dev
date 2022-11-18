@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: M_DecaFoamNoOpacity
+  m_Name: M_Decal_Foam_No_Opacity
   m_Shader: {fileID: 4800000, guid: 749a180d4c804444d9a510418926174b, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
