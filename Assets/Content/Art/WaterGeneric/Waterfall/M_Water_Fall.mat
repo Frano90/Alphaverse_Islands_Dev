@@ -54,29 +54,39 @@ Material:
     m_Ints: []
     m_Floats:
     - _AlphaCutoff: 0.5
-    - _ColorVariationIntensity: 0.269
+    - _ColorVariationIntensity: 0.223
     - _DepthDistance: 0.57
     - _DepthOffset: 0.43
-    - _Float0: 0.45
-    - _Float1: 0
+    - _Float0: -0.5
+    - _Float1: 1
+    - _Float2: 0.023773555
     - _Flow: 0.033
+    - _GradiantOffset: -0.13
+    - _HardnessStaticFoam: 0.028093409
     - _IntensityOffset: 0.327
-    - _IntensityVertexColor: 0.349
+    - _IntensityVertexColor: 25
     - _Metallic: 0.119
-    - _MinFoamMovement: 0.02
-    - _NormalScale: 0.45
+    - _MinFoamMovement: 0.015
+    - _NormalScale: 0.259
+    - _OffsetStaticFoam: 0.5647059
+    - _ScaleStaticFoam: 0.041
     - _Smoothness: 0.848
+    - _StaticFoamAmmount: 0.405
     m_Colors:
     - _ColorVariation: {r: 0, g: 0.46648562, b: 0.8584906, a: 0}
-    - _DepthColor: {r: 0.24870875, g: 0.45158422, b: 0.764151, a: 0}
+    - _DepthColor: {r: 1, g: 1, b: 1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _FoamColor: {r: 1, g: 1, b: 1, a: 0}
-    - _MainColor: {r: 0.20282966, g: 0.58734745, b: 1, a: 0}
+    - _GradiantCOlor: {r: 0.4392154, g: 0.7476348, b: 1, a: 0}
+    - _MainColor: {r: 0.20282921, g: 0.58734745, b: 1, a: 0}
     - _Speed: {r: 0, g: 1.5, b: 0, a: 0}
     - _SpeedOffset: {r: 0, g: 0.1, b: 0, a: 0}
     - _SpeedVariation: {r: 0, g: 0.1, b: 0, a: 0}
+    - _StaticFoamSpeed: {r: 0, g: 1, b: 0, a: 0}
+    - _StaticFoamTilling: {r: 3, g: 3, b: 0, a: 0}
     - _Tilling: {r: 10, g: 3, b: 0, a: 0}
     - _TillingOffset: {r: 0.3, g: 0.3, b: 0, a: 0}
     - _TillingVariation: {r: 1, g: 1, b: 0, a: 0}
-    - _Vector0: {r: 0.3, g: 0.3, b: 0, a: 0}
+    - _Vector0: {r: 3, g: 3, b: 0, a: 0}
+    - _Vector1: {r: 0, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
