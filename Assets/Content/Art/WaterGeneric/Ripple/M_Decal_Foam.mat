@@ -55,7 +55,7 @@ Material:
     - _Float2: 0.26
     - _FlowIntensity: 0
     - _NoiseIntensity: 1
-    - _Offset: -0.7
+    - _Offset: -0.64
     - _Opacity: 0.017
     - _Scale: 2
     m_Colors:
@@ -71,5 +71,5 @@ Material:
     - _Vector1: {r: 0, g: 0.1, b: 0, a: 0}
     - _Vector2: {r: 0.2, g: 0.3, b: 0, a: 0}
     - _Vector3: {r: 2, g: 6, b: 0, a: 0}
-    - _WaterColor: {r: 0.60784316, g: 0.80392164, b: 0.8862746, a: 1}
+    - _WaterColor: {r: 0.15294118, g: 0.4666667, b: 0.7568628, a: 1}
   m_BuildTextureStacks: []

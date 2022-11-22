@@ -24,7 +24,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailTexture:
-        m_Texture: {fileID: 2800000, guid: c3b8289d3dc3f3d438a48d5715c16912, type: 3}
+        m_Texture: {fileID: 2800000, guid: 28e7641bb6b1c1c47868b18d207d8215, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _FlowMap:
@@ -60,7 +60,7 @@ Material:
     - _AlphaCutoff: 0.5
     - _Amplitude: 0.5
     - _DepthDistance: 2
-    - _DetailSize: 0.15
+    - _DetailSize: 0.18
     - _Distance: 0.59
     - _Float0: 0.933
     - _Float1: 13.54
@@ -72,23 +72,24 @@ Material:
     - _MaskColor: 0.57
     - _Metallic: 0.158
     - _Normal: 0
-    - _ScaleNormal: 0.346
+    - _ScaleNormal: 0.245
     - _Smoothness: 0.804
-    - _VertexColorIntensity: 0.152
+    - _VertexColorIntensity: 0.06823529
     m_Colors:
     - _Color0: {r: 0.6273585, g: 0.811718, b: 1, a: 0}
-    - _ColorMask: {r: 0.48584896, g: 0.6995747, b: 1, a: 0}
+    - _ColorMask: {r: 0.14117622, g: 0.45882356, b: 0.75294125, a: 0}
     - _ColorVariationTilling: {r: -0.42, g: 2.91, b: 0, a: 0}
     - _DepthSpeed: {r: 0, g: 0.2, b: 0, a: 0}
     - _DetailSpeed: {r: 0, g: 0.73, b: 0, a: 0}
-    - _DetailTilling: {r: 2.5, g: 12, b: 0, a: 0}
+    - _DetailTilling: {r: 3, g: 20, b: 0, a: 0}
     - _Dir: {r: 0, g: 1, b: 0, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
-    - _MainColor: {r: 0.5518868, g: 0.80795133, b: 1, a: 0}
-    - _SecondFoamColor: {r: 0.41981116, g: 0.96222216, b: 1, a: 0}
+    - _MainColor: {r: 0.32156837, g: 0.513725, b: 0.7490196, a: 0}
+    - _SecondFoamColor: {r: 0.32547146, g: 0.59638727, b: 1, a: 0}
     - _Speed: {r: 0, g: 0.1, b: 0, a: 0}
     - _SpeedOffset: {r: 0, g: 0.1, b: 0, a: 0}
     - _Speed_1: {r: 0, g: 0.1, b: 0, a: 0}
+    - _TillinVertexColor: {r: 2.57, g: 8, b: 0, a: 0}
     - _Tilling: {r: 5, g: 5, b: 0, a: 0}
     - _Vector0: {r: 0.1, g: 2.91, b: 0, a: 0}
     - _Vector1: {r: 0, g: 0.1, b: 0, a: 0}

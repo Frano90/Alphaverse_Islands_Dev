@@ -50,9 +50,9 @@ Material:
     - _Float1: 0.04
     - _Float2: 0.65
     - _Float3: 0.29411766
-    - _IntensityOffset: 0.3
+    - _IntensityOffset: 5.36
     - _IntensityOffset1: 44.69
-    - _ScaleNormal: 0.29411766
+    - _ScaleNormal: 0.107
     - _TessValue: 1
     m_Colors:
     - _Color0: {r: 0, g: 0.38749993, b: 1, a: 0}
@@ -60,7 +60,7 @@ Material:
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _InnerColor: {r: 0, g: 0.38749987, b: 1, a: 0}
     - _OffsetTilling: {r: 0.87, g: 0.5, b: 0, a: 0}
-    - _OuterColor: {r: 0.58962256, g: 0.81653726, b: 1, a: 0}
+    - _OuterColor: {r: 0.4764151, g: 0.7433409, b: 1, a: 0}
     - _SpeedOffset: {r: 0, g: 0.45, b: 0, a: 0}
     - _SpeedOffset1: {r: 0, g: 0.3, b: 0, a: 0}
     - _Vector0: {r: 0.87, g: 0.5, b: 0, a: 0}
