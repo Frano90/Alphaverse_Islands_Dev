@@ -23,16 +23,20 @@ Material:
         m_Texture: {fileID: 2800000, guid: f44a63b6d95a672428074b4d4014f77e, type: 3}
         m_Scale: {x: 0, y: 0}
         m_Offset: {x: 0, y: 0}
+    - _Perlin:
+        m_Texture: {fileID: 2800000, guid: c3b382eaa77fdf448b9d11cdfda5ee08, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _TextureSample0:
         m_Texture: {fileID: 2800000, guid: c63c03ec917f02e45bcc9457ca723410, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _TextureSample1:
-        m_Texture: {fileID: 2800000, guid: 948166c2bc6399b478ba0254c440257b, type: 3}
+        m_Texture: {fileID: 2800000, guid: 9fc0980eb0090444597608d447b44820, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _WaterTexture:
-        m_Texture: {fileID: 2800000, guid: cd6370a605595194aa9c53e5d1d0cf8b, type: 3}
+        m_Texture: {fileID: 2800000, guid: 11e579fe83a9d2942a4151487c3ed8e8, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _WaterTexture1:
@@ -46,20 +50,26 @@ Material:
     m_Ints: []
     m_Floats:
     - _AlphaCutoff: 0.5
-    - _Float0: 1
+    - _Float0: 1.09
     - _Float1: 1
+    - _Float2: 0.26
     - _FlowIntensity: 0
-    - _Offset: -0.18
-    - _Opacity: 1
-    - _Scale: 4
+    - _NoiseIntensity: 1
+    - _Offset: -0.7
+    - _Opacity: 0.017
+    - _Scale: 2
     m_Colors:
     - _Color0: {r: 0.60784316, g: 0.80392164, b: 0.8862746, a: 1}
     - _Color1: {r: 1, g: 1, b: 1, a: 0}
     - _DetailColor: {r: 1, g: 1, b: 1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
-    - _Speed: {r: 0, g: 2.03, b: 0, a: 0}
-    - _Speed_2: {r: -0.24, g: 1.8, b: 0, a: 0}
-    - _Tilling: {r: 8, g: 5, b: 0, a: 0}
-    - _Tilling_2: {r: 8, g: 7, b: 0, a: 0}
+    - _Speed: {r: 0, g: 0.44, b: 0, a: 0}
+    - _Speed_2: {r: 0, g: 0.68, b: 0, a: 0}
+    - _Tilling: {r: 5, g: 2, b: 0, a: 0}
+    - _Tilling_2: {r: 8, g: 3, b: 0, a: 0}
+    - _Vector0: {r: 0.5, g: 5, b: 0, a: 0}
+    - _Vector1: {r: 0, g: 0.1, b: 0, a: 0}
+    - _Vector2: {r: 0.2, g: 0.3, b: 0, a: 0}
+    - _Vector3: {r: 2, g: 6, b: 0, a: 0}
     - _WaterColor: {r: 0.60784316, g: 0.80392164, b: 0.8862746, a: 1}
   m_BuildTextureStacks: []
