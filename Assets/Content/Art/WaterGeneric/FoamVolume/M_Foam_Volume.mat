@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_Foam_Volume
+  m_Shader: {fileID: 4800000, guid: 57fc6f1971b6aee469d1c4664ec1ddda, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: 27a4fd6c36230a348b0f17154ae9c9e7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Offset:
+        m_Texture: {fileID: 2800000, guid: 28e7641bb6b1c1c47868b18d207d8215, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture0:
+        m_Texture: {fileID: 2800000, guid: 28e7641bb6b1c1c47868b18d207d8215, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture1:
+        m_Texture: {fileID: 2800000, guid: 9fc0980eb0090444597608d447b44820, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample0:
+        m_Texture: {fileID: 2800000, guid: 27a4fd6c36230a348b0f17154ae9c9e7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AlphaCutoff: 0.5
+    - _Float0: 0.03
+    - _Float1: 0.04
+    - _Float2: 0.65
+    - _Float3: 0.29411766
+    - _IntensityOffset: 0.3
+    - _IntensityOffset1: 44.69
+    - _ScaleNormal: 0.29411766
+    - _TessValue: 1
+    m_Colors:
+    - _Color0: {r: 0, g: 0.38749993, b: 1, a: 0}
+    - _Color1: {r: 0.58962256, g: 0.81653726, b: 1, a: 0}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _InnerColor: {r: 0, g: 0.38749987, b: 1, a: 0}
+    - _OffsetTilling: {r: 0.87, g: 0.5, b: 0, a: 0}
+    - _OuterColor: {r: 0.58962256, g: 0.81653726, b: 1, a: 0}
+    - _SpeedOffset: {r: 0, g: 0.45, b: 0, a: 0}
+    - _SpeedOffset1: {r: 0, g: 0.3, b: 0, a: 0}
+    - _Vector0: {r: 0.87, g: 0.5, b: 0, a: 0}
+    - _Vector1: {r: 0.5, g: 0.34, b: 0, a: 0}
+  m_BuildTextureStacks: []

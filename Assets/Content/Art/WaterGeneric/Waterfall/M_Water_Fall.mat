@@ -20,7 +20,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BasePerlin:
-        m_Texture: {fileID: 2800000, guid: 9fc0980eb0090444597608d447b44820, type: 3}
+        m_Texture: {fileID: 2800000, guid: 419686903bc2bca47abf45b2a7de679c, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BaseTexture:
@@ -31,9 +31,21 @@ Material:
         m_Texture: {fileID: 2800000, guid: 3bee959d0c19ff94aa3586717b080e2f, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: 7d9df0a003559094985414788b787c13, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Offset:
+        m_Texture: {fileID: 2800000, guid: 28e7641bb6b1c1c47868b18d207d8215, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture0:
+        m_Texture: {fileID: 2800000, guid: 28e7641bb6b1c1c47868b18d207d8215, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _TextureSample0:
-        m_Texture: {fileID: 2800000, guid: 2f99e35e6ad907f408c3ec1980f11cef, type: 3}
-        m_Scale: {x: 0.5, y: 2}
+        m_Texture: {fileID: 2800000, guid: 7d9df0a003559094985414788b787c13, type: 3}
+        m_Scale: {x: 2, y: 2}
         m_Offset: {x: 0, y: 0}
     - _texcoord:
         m_Texture: {fileID: 0}
@@ -42,21 +54,29 @@ Material:
     m_Ints: []
     m_Floats:
     - _AlphaCutoff: 0.5
-    - _ColorVariationIntensity: 0.259
+    - _ColorVariationIntensity: 0.269
     - _DepthDistance: 0.57
     - _DepthOffset: 0.43
-    - _Float0: 0
-    - _Flow: 0.181
-    - _IntensityVertexColor: 1
-    - _MinFoamMovement: 0.12
+    - _Float0: 0.45
+    - _Float1: 0
+    - _Flow: 0.033
+    - _IntensityOffset: 0.327
+    - _IntensityVertexColor: 0.349
+    - _Metallic: 0.119
+    - _MinFoamMovement: 0.02
+    - _NormalScale: 0.45
+    - _Smoothness: 0.848
     m_Colors:
-    - _ColorVariation: {r: 0, g: 0.46796155, b: 0.8584906, a: 0}
-    - _DepthColor: {r: 0.5613207, g: 0.8087244, b: 1, a: 0}
+    - _ColorVariation: {r: 0, g: 0.46648562, b: 0.8584906, a: 0}
+    - _DepthColor: {r: 0.24870875, g: 0.45158422, b: 0.764151, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _FoamColor: {r: 1, g: 1, b: 1, a: 0}
-    - _MainColor: {r: 0.41176468, g: 0.62745106, b: 0.8705883, a: 0}
-    - _Speed: {r: 0, g: 0.1, b: 0, a: 0}
+    - _MainColor: {r: 0.20282966, g: 0.58734745, b: 1, a: 0}
+    - _Speed: {r: 0, g: 1.5, b: 0, a: 0}
+    - _SpeedOffset: {r: 0, g: 0.1, b: 0, a: 0}
     - _SpeedVariation: {r: 0, g: 0.1, b: 0, a: 0}
-    - _Tilling: {r: 1.93, g: 0.79, b: 0, a: 0}
+    - _Tilling: {r: 10, g: 3, b: 0, a: 0}
+    - _TillingOffset: {r: 0.3, g: 0.3, b: 0, a: 0}
     - _TillingVariation: {r: 1, g: 1, b: 0, a: 0}
+    - _Vector0: {r: 0.3, g: 0.3, b: 0, a: 0}
   m_BuildTextureStacks: []
