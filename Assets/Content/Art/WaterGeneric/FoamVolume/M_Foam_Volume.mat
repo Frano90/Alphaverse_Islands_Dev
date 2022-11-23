@@ -52,7 +52,7 @@ Material:
     - _Float3: 0.29411766
     - _IntensityOffset: 5.36
     - _IntensityOffset1: 44.69
-    - _ScaleNormal: 0.107
+    - _ScaleNormal: 0.184
     - _TessValue: 1
     m_Colors:
     - _Color0: {r: 0, g: 0.38749993, b: 1, a: 0}
