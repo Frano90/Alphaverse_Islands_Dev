@@ -27,6 +27,10 @@ Material:
         m_Texture: {fileID: 2800000, guid: 9fc0980eb0090444597608d447b44820, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _DepthMask:
+        m_Texture: {fileID: 2800000, guid: 948166c2bc6399b478ba0254c440257b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _FlowMap:
         m_Texture: {fileID: 2800000, guid: 3bee959d0c19ff94aa3586717b080e2f, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -55,38 +59,38 @@ Material:
     m_Floats:
     - _AlphaCutoff: 0.5
     - _ColorVariationIntensity: 0.223
-    - _DepthDistance: 0.57
-    - _DepthOffset: 0.43
+    - _DepthDistance: 2
+    - _DepthOffset: 1.26
     - _Float0: -0.5
     - _Float1: 1
     - _Float2: 0.023773555
     - _Flow: 0.033
     - _GradiantOffset: -0.13
     - _HardnessStaticFoam: 0.028093409
-    - _IntensityOffset: 0.327
+    - _IntensityOffset: 0
     - _IntensityVertexColor: 25
     - _Metallic: 0.119
     - _MinFoamMovement: 0.015
-    - _NormalScale: 0.259
-    - _OffsetStaticFoam: 0.5647059
+    - _NormalScale: 0.218
+    - _OffsetStaticFoam: 0.581
     - _ScaleStaticFoam: 0.041
     - _Smoothness: 0.848
-    - _StaticFoamAmmount: 0.405
+    - _StaticFoamAmmount: 0.18352482
     m_Colors:
     - _ColorVariation: {r: 0, g: 0.46648562, b: 0.8584906, a: 0}
     - _DepthColor: {r: 1, g: 1, b: 1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
-    - _FoamColor: {r: 1, g: 1, b: 1, a: 0}
-    - _GradiantCOlor: {r: 0.4392154, g: 0.7476348, b: 1, a: 0}
-    - _MainColor: {r: 0.20282921, g: 0.58734745, b: 1, a: 0}
+    - _FoamColor: {r: 0.82547176, g: 0.9049386, b: 1, a: 0}
+    - _GradiantCOlor: {r: 0.43921503, g: 0.7476348, b: 1, a: 0}
+    - _MainColor: {r: 0.20282888, g: 0.58734745, b: 1, a: 0}
     - _Speed: {r: 0, g: 1.5, b: 0, a: 0}
     - _SpeedOffset: {r: 0, g: 0.1, b: 0, a: 0}
     - _SpeedVariation: {r: 0, g: 0.1, b: 0, a: 0}
     - _StaticFoamSpeed: {r: 0, g: 1, b: 0, a: 0}
-    - _StaticFoamTilling: {r: 3, g: 3, b: 0, a: 0}
+    - _StaticFoamTilling: {r: 3, g: 2, b: 0, a: 0}
     - _Tilling: {r: 10, g: 3, b: 0, a: 0}
     - _TillingOffset: {r: 0.3, g: 0.3, b: 0, a: 0}
     - _TillingVariation: {r: 1, g: 1, b: 0, a: 0}
     - _Vector0: {r: 3, g: 3, b: 0, a: 0}
-    - _Vector1: {r: 0, g: 1, b: 0, a: 0}
+    - _Vector1: {r: -1, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []

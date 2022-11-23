@@ -31,6 +31,10 @@ Material:
         m_Texture: {fileID: 2800000, guid: 3bee959d0c19ff94aa3586717b080e2f, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _Lit_Base_color:
+        m_Texture: {fileID: 2800000, guid: dbec7813d643fb9409e01685c2d10488, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _NoiseDepth:
         m_Texture: {fileID: 2800000, guid: 28e7641bb6b1c1c47868b18d207d8215, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -58,14 +62,17 @@ Material:
     m_Ints: []
     m_Floats:
     - _AlphaCutoff: 0.5
-    - _Amplitude: 0.5
-    - _DepthDistance: 2
+    - _Amplitude: 0.2
+    - _DepthDistance: 1
     - _DetailSize: 0.18
     - _Distance: 0.59
-    - _Float0: 0.933
+    - _Float0: 1
     - _Float1: 13.54
     - _Float2: 0.0125
-    - _Float3: 0.152
+    - _Float3: 5
+    - _Float4: 15
+    - _Float5: 0.03
+    - _Float6: 1.29
     - _FlowIntensity: 1
     - _Freq: 100
     - _Intensity: 1
@@ -74,24 +81,25 @@ Material:
     - _Normal: 0
     - _ScaleNormal: 0.245
     - _Smoothness: 0.804
-    - _VertexColorIntensity: 0.06823529
+    - _VertexColorIntensity: 0.543
     m_Colors:
-    - _Color0: {r: 0.6273585, g: 0.811718, b: 1, a: 0}
-    - _ColorMask: {r: 0.14117622, g: 0.45882356, b: 0.75294125, a: 0}
+    - _Color0: {r: 1, g: 1, b: 1, a: 0}
+    - _ColorMask: {r: 0.14117593, g: 0.45882356, b: 0.75294125, a: 0}
     - _ColorVariationTilling: {r: -0.42, g: 2.91, b: 0, a: 0}
     - _DepthSpeed: {r: 0, g: 0.2, b: 0, a: 0}
     - _DetailSpeed: {r: 0, g: 0.73, b: 0, a: 0}
     - _DetailTilling: {r: 3, g: 20, b: 0, a: 0}
     - _Dir: {r: 0, g: 1, b: 0, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
-    - _MainColor: {r: 0.32156837, g: 0.513725, b: 0.7490196, a: 0}
-    - _SecondFoamColor: {r: 0.32547146, g: 0.59638727, b: 1, a: 0}
+    - _MainColor: {r: 0.32156807, g: 0.513725, b: 0.7490196, a: 0}
+    - _SecondFoamColor: {r: 0.32547113, g: 0.59638727, b: 1, a: 0}
     - _Speed: {r: 0, g: 0.1, b: 0, a: 0}
     - _SpeedOffset: {r: 0, g: 0.1, b: 0, a: 0}
+    - _SpeedVertexColor: {r: 0, g: 0.5, b: 0, a: 0}
     - _Speed_1: {r: 0, g: 0.1, b: 0, a: 0}
-    - _TillinVertexColor: {r: 2.57, g: 8, b: 0, a: 0}
+    - _TillinVertexColor: {r: 5, g: 30, b: 0, a: 0}
     - _Tilling: {r: 5, g: 5, b: 0, a: 0}
-    - _Vector0: {r: 0.1, g: 2.91, b: 0, a: 0}
+    - _Vector0: {r: 1.2, g: 1.2, b: 0, a: 0}
     - _Vector1: {r: 0, g: 0.1, b: 0, a: 0}
     - _Vector2: {r: 1, g: 1, b: 0, a: 0}
     - _Vector3: {r: 0, g: 0.38, b: 0, a: 0}
